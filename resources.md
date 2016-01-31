@@ -12,20 +12,13 @@ This course will pull examples and ideas from multiple sources, but most closely
 
 ## Some Thunder ;)
 
-### [Think Stats](http://greenteapress.com/thinkstats2/)
-
+- [Think Stats](http://greenteapress.com/thinkstats2/)
+- [Data Science from Scratch]
 Teaches stats with pandas and python. It has a github repo with notebooks to complete. Uses the author's libraries rather than more widely-used packages (e.g. scipy.stats).
 
-* Learn data science from scratch: The book I was going to give every student as a reference/course guide. Builds up data science concepts in python by coding them from scratch rather than using pre-existing libraries.
 
-* Here are some other notebooks I was using as models.
-
-* Here's an (unfinished) example of what I wanted projects to look like.
-
-For computer set up, I wanted everyone to use a virtual linux system (so I could teach command line tricks, viz Data Science at the Command Line).
-
-I put up a gist talking about how to set up vagrant (my vagrant image is for pyspark so YMMV).
-
-Even better is to use one of Jupyter's opinionated docker stacks.
-
-Also I would recommend using conda instead of pip for package installation since you could then install anaconda which contains all the major scientific python packages and dependencies (makes installing jupyter notebook a breeze).
+- [Example ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) are some other notebooks I was using as models.
+- [Unfinished example project](https://github.com/ThunderShiviah/data_science_notes/blob/master/notebooks/friend_paradox_unfinished.ipynb)
+- [How to set up a pyspark vagrant box](https://gist.github.com/ThunderShiviah/f340d7fe50bb751d8516)
+- [Jupyter's recommended stacks](https://github.com/jupyter/docker-stacks) for Docker boxes
+- Use [conda](http://conda.pydata.org/) instead of pip on Windows
