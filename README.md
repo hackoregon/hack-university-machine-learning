@@ -4,7 +4,7 @@ You can everything you need for the winter semester of [Hack Oregon](http://www.
 [Hack University](http://www.hackoregon.org/hack-university/) course 
 ["Machine Learning"](http://www.hackoregon.org/database-cohort) here.
 
-## Syllabus
+## [Syllabus](syllabus.md)
 
 ## Slides
 
