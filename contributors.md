@@ -1,7 +1,13 @@
 ## Contributors
 
-- [Thunder](thundershiviah@github.io)
-- [Zeke](ze6ke.com)
-- [Hannes](hanneshapke.github.io)
-- [Hobson](hobsonlane.com)
+#### Instructors
+
+- [Hobson](//hobsonlane.com)
+- [Zeke](//ze6ke.com)
+
+#### Contributors
+
+- [Hannes](//hanneshapke.github.io)
+- [Thunder](//thundershiviah@github.io)
+
 

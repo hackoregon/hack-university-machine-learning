@@ -48,7 +48,7 @@ Fun machine learning projects and a [github repo](https://github.com/ptwobrussel
     - SciPy and matplotlib
     - numpy (efficiency, indexing, missing values)
     - introduction to "modeling" (i.e. simulation)
-- Ch2: Classification Example
+- Ch 2: Classification Example
     - Datasets: Iris (flower), Seeds (wheat seeds)
     - Experimental design (cross-validation)
     - Features and Feature Engineering
