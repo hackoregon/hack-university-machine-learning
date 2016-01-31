@@ -20,11 +20,10 @@ You can everything you need for the winter semester of [Hack Oregon](http://www.
 
 #### Instructors
 
-- [Hobson](http://hobsonlane.com)
-- [Zeke](http://ze6ke.com)
+- [Hobson](http://hobsonlane.com/)
+- [Zeke](http://ze6ke.com/)
 
 #### Contributors
 
-- [Hannes](http://hanneshapke.github.io)
-- [Thunder](http://thundershiviah@github.io)
-
+- [Hannes](http://hanneshapke.github.io/)
+- [Thunder](http://thundershiviah.github.io/)
