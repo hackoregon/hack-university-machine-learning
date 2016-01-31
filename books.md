@@ -153,10 +153,47 @@ Fun machine learning projects and a [github repo](https://github.com/ptwobrussel
 - Appendix: List of Command Line Tools 
     - alias, awk, aws, bash, bc, bigmler, body, cat, cd, chmod, cols, cowsay, cp, csvcut, csvgrep, csvjoin, csvlook, csvsort, csvsql, csvstack, csvstat, curl, curlicue, cut, display, drake, dseq, echo, env, export, feedgnuplot, fieldsplit, find, for, git, grep, head, header, in2csv, jq, json2csv, less, ls, man, mkdir, mv, parallel, paste, pbc, pip, pwd, python, R, Rio, Rio-scatter, rm, run_experiment, sample, scp, scrape, sed, seq, shuf, sort, split, sql2csv, ssh, sudo, tail, tapkee, tar, tee, tr, tree, type, uniq, unpack, unrar, unzip, wc, weka, which, xml2json
 
+## 2011 Witten: Data Mining - Practical Machine Learning Tools and Techniques, 3rd Ed
+
+- Ch 1. Data Mining & Machine Learning
+    - Examples with data and code
+        - Weather prediction
+        - Iris
+        - CPU performance
+    - Web Applications
+        - Web scraping/mining
+        - Inference/judgement
+    - Search
+    - Ethics
+    - Statistics
+- Ch 2. Concepts, Instances, Attributes
+    - Relation examples
+    - Attribute examples
+    - Preprocessing data
+    - ARFF format
+    - Sparse data structures
+    - Imputing missing values
+    - Correcting errors
+- Ch 3. Knowledge Representation (Modeling)
+    - Linear models
+    - Decision trees
+    - Classification rules/heuristics
+    - Clustering
+- Ch 4. Algorithms
+    - Easy inference problems (filling missing values)
+    - Statistical Modeling
+        - Naive Bayes document classification 
+
 ## Others
 
 - 2013 Provost: Machine Learning for Business
-- 2016 Domingo: The Universal Algorithm (don't bother)
+    - Good for CTOs and startup product development leads
+    - Nice simplified explanation of regression, classification, recommendation, unsupervised/supervised
+- 2013 Massaron: Python® for Data Science For Dummies by Luca Massaron & John Paul Mueller
+    - pretty basic 
+- 2016 Domingos: The Master Algorithm
+    - light on technical details and "actionable" insight
+    - [reviewers say it's just disorganized self-promotion](https://www.goodreads.com/book/show/24612233-the-master-algorithm)
 
 ### [Think Stats](http://greenteapress.com/thinkstats2/)
 
