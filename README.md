@@ -15,3 +15,16 @@ You can everything you need for the winter semester of [Hack Oregon](http://www.
 ## [External Resoures](resources.md)
 
 ### [Books](books.md)
+
+### [Instructors and Contributors](contributors.md)
+
+#### Instructors
+
+- [Hobson](hobsonlane.com)
+- [Zeke](ze6ke.com)
+
+#### Contributors
+
+- [Hannes](hanneshapke.github.io)
+- [Thunder](thundershiviah@github.io)
+
