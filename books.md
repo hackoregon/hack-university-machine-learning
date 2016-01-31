@@ -50,7 +50,7 @@ Fun machine learning projects and a [github repo](https://github.com/ptwobrussel
     - introduction to "modeling" (i.e. simulation)
 - Ch 2: Classification Example
     - Datasets: Iris (flower), Seeds (wheat seeds)
-    - Experimental design (cross-validation)
+    - Experiment design (DOE, DOX or cross-validation)
     - Features and Feature Engineering
     - 
 
@@ -126,6 +126,64 @@ Fun machine learning projects and a [github repo](https://github.com/ptwobrussel
     - NLP example
     - Combiners
 
-## Don't Bother!
+### 2014 Janssens: [Data Science at the Command Line](http://datascienceatthecommandline.com/) [$34 O'Reilly](http://shop.oreilly.com/product/0636920032823.do?cmp=af-strata-books-videos-product_cj_9781491947852_%25zp)
 
-- 2016 Domingo: The Universal Algorithm
+- Ch 1: Intro
+    - Real world use cases
+- Ch 2: Setting up a DS Toolbox
+- Ch 3: Getting Data
+    - Files (reading, deompressing)
+    - Excel
+    - DBs
+    - Web APIs
+- Ch 4: Reusable Command-Line Tools
+    - Oneliners -> shell scripts
+    - Python and R
+- Ch 5: Cleaning Data
+    - CSV, HTML/XML, JSON
+- Ch 6: Data Workflow/Pipeline
+    - Drake
+    - example: mining Project Gutenburg
+- Ch 7: Exploring Data
+    - Stats and Visualization
+- Ch 8: Parallel Pipelines
+- Ch 9: Modeling Data
+    - Weka, SciKit-Learn, Tapkee, BigML
+- Ch 10: Lessons Learned
+- Appendix: List of Command Line Tools 
+    - alias, awk, aws, bash, bc, bigmler, body, cat, cd, chmod, cols, cowsay, cp, csvcut, csvgrep, csvjoin, csvlook, csvsort, csvsql, csvstack, csvstat, curl, curlicue, cut, display, drake, dseq, echo, env, export, feedgnuplot, fieldsplit, find, for, git, grep, head, header, in2csv, jq, json2csv, less, ls, man, mkdir, mv, parallel, paste, pbc, pip, pwd, python, R, Rio, Rio-scatter, rm, run_experiment, sample, scp, scrape, sed, seq, shuf, sort, split, sql2csv, ssh, sudo, tail, tapkee, tar, tee, tr, tree, type, uniq, unpack, unrar, unzip, wc, weka, which, xml2json
+
+## Others
+
+- 2013 Provost: Machine Learning for Business
+- 2016 Domingo: The Universal Algorithm (don't bother)
+
+### [Think Stats](http://greenteapress.com/thinkstats2/)
+
+Teaches stats with pandas and python. It has a github repo with notebooks to complete. Uses the author's libraries rather than more widely-used packages (e.g. scipy.stats).
+
+
+### 2009: Introduction to Machine Learning [MIT Press]
+
+Information-theoretic approach with lots of math, theory, and no code.
+
+- Ch 1: What is ML
+    - Solving problems with data instead of a hard-coded algorithm based on a-priori knowledge
+- Ch 2: Supervised Learning
+- Ch 3: Bayesian Decision Theory
+- Ch 4: Parametric Methods
+- Ch 5: Multivariate Methods
+- Ch 6: Dimensionality Reduction
+- Ch 7: Clustering
+- Ch 8: Nonparametric Methods (Clustering, Decision Trees, NNs)
+- Ch 9: Decision Trees
+- Ch 10: Linear Discrimination
+- Ch 11: Multilayer Perceptrons
+- Ch 12: Local Models
+- Ch 13: Kernel Machines
+- Ch 14: Bayesian Estimation
+- Ch 15: Hidden Markhov Models
+- Ch 16: Graphical Models (Bayesian/Belief Networks)
+- Ch 17: Combining Learners (Ensemble Learning)
+- Ch 18: Reinforcement Learning
+- Ch 19: Machine Learning Experiment Design (DOX)
