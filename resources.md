@@ -6,41 +6,26 @@
 
 ## Code
 
-## Books
+## [Books](books.md)
 
 This course will pull examples and ideas from multiple sources, but most closely resembles the content and structure of the Raschka book published by PackT ($35, but can sometimes get a promo code for 20% off)
 
-### 2015 Raschka: Python Machine Learning
+## Some Thunder ;)
 
-- Ch 1: Learning from Data
-    - 3 ways to transform data into knowledge
-        - Supervised learning to predict the future
-        - Reinforcement learning to "solve" interactive problems
-        - Unsupervised learning (clustering) to find hidden structure
-    - terminology and notation
-    - pipeline elements
-        - preprocessing data
-        - selecting a model
-        - training a model
-        - evaluating model performance
-        - prediction
-    - python
+### [Think Stats](http://greenteapress.com/thinkstats2/)
 
+Teaches stats with pandas and python. It has a github repo with notebooks to complete. Uses the author's libraries rather than more widely-used packages (e.g. scipy.stats).
 
-### 2015 Bowles: Machine Learning in Python
+* Learn data science from scratch: The book I was going to give every student as a reference/course guide. Builds up data science concepts in python by coding them from scratch rather than using pre-existing libraries.
 
-- Ch 1: Introduction
-    - Penalized Regression (Regularization) and Ensemble Methods
-- Ch 2:
+* Here are some other notebooks I was using as models.
 
-### 2015 Coelho: Building Machine Learning Systems with Python 2nd Ed
+* Here's an (unfinished) example of what I wanted projects to look like.
 
-- Ch 1: Python Tools and Explanation of "Modeling"
-    - SciPy and matplotlib
-    - numpy (efficiency, indexing, missing values)
-    - introduction to "modeling" (i.e. simulation)
-- Ch2: Classification Example
-    - Datasets: Iris (flower), Seeds (wheat seeds)
-    - Experimental design (cross-validation)
-    - Features and Feature Engineering
-    - 
+For computer set up, I wanted everyone to use a virtual linux system (so I could teach command line tricks, viz Data Science at the Command Line).
+
+I put up a gist talking about how to set up vagrant (my vagrant image is for pyspark so YMMV).
+
+Even better is to use one of Jupyter's opinionated docker stacks.
+
+Also I would recommend using conda instead of pip for package installation since you could then install anaconda which contains all the major scientific python packages and dependencies (makes installing jupyter notebook a breeze).
