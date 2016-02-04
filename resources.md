@@ -1,3 +1,5 @@
+## [Datasets](datasets.md)
+
 ## Online Courses
 
 ## Tutorials
@@ -8,7 +10,9 @@
 
 ## [Books](books.md)
 
-This course will pull examples and ideas from multiple sources, but most closely resembles the content and structure of the Raschka book published by PackT ($35, but can sometimes get a promo code for 20% off)
+This course will pull examples and ideas from multiple sources, but most closely resembles the content and structure of the second half of Grus's book Learning Data Science from Scratch from [O'Reilly $34](http://shop.oreilly.com/product/0636920033400.do). Google "promo code O'Reilly" and you should be able to get 50% off.
+
+Raschka book published by PackT ($35, but can sometimes get a promo code for 20% off)
 
 ## Some Thunder ;)
 
