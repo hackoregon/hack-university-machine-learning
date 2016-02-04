@@ -1,58 +1,6 @@
 ## Books
 
-This course will pull examples and ideas from multiple sources, but most closely resembles the content and structure of the Raschka book published by PackT ($35, but can sometimes get a promo code for 20% off)
-
-### 2015 Raschka: Python Machine Learning, [Packt $36](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning)
-
-- Ch 1: Learning from Data
-    - 3 ways to transform data into knowledge
-        - Supervised learning to predict the future
-        - Reinforcement learning to "solve" interactive problems
-        - Unsupervised learning (clustering) to find hidden structure
-    - terminology and notation
-    - pipeline elements
-        - preprocessing data
-        - selecting a model
-        - training a model
-        - evaluating model performance
-        - prediction
-    - python
-
-
-### 2013 Russel: Mining the Social Web 2nd Ed, [O'Reilly $38](http://shop.oreilly.com/product/0636920030195.do)
-
-Fun machine learning projects and a [github repo](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition) with code. Uses industry-standard data science packages (pandas, scikit-learn, etc) as well as practical tools for aquiring and manipulating data, like json, web apis, unstructured text processing, etc.
-
-- Ch 1: Twitter
-    - Twitter API
-    - NLP
-- Ch 2: Facebook
-    - Social Graph API
-- Ch 3: Google +
-- Ch 4: Linked-In
-- Ch 5: Web Page Scraping
-- Ch 6: E-Mail
-- Ch 7: GitHub
-- Ch 8: Semantic Web
-- Ch 9: Twitter Cookbook
-
-### 2015 Bowles: Machine Learning in Python
-
-- Ch 1: Introduction
-    - Penalized Regression (Regularization) and Ensemble Methods
-- Ch 2:
-
-### 2015 Coelho: Building Machine Learning Systems with Python 2nd Ed
-
-- Ch 1: Python Tools and Explanation of "Modeling"
-    - SciPy and matplotlib
-    - numpy (efficiency, indexing, missing values)
-    - introduction to "modeling" (i.e. simulation)
-- Ch 2: Classification Example
-    - Datasets: Iris (flower), Seeds (wheat seeds)
-    - Experiment design (DOE, DOX or cross-validation)
-    - Features and Feature Engineering
-    - 
+This course will pull examples and ideas from multiple sources, but most closely resembles the content and structure of the second half of the 2015 Grus book _Learning_Data_Science_from_Scratch_, published and sold by [O'Reilly for $34](http://shop.oreilly.com/product/0636920033400.do)es get a promo code for 20% off). You should be able to find promo codes for 50% off.  We'll touch on some topics in Chapter 1 during the first week and then skip to Chapter 10 and 11. In week 2 we'll get into Chapters 12 and 13.
 
 ### 2015 Grus: Learning Data Science from Scratch [O'Reilly $34](http://shop.oreilly.com/product/0636920033400.do)
 
@@ -125,6 +73,58 @@ Fun machine learning projects and a [github repo](https://github.com/ptwobrussel
     - Matrix Multiplication example
     - NLP example
     - Combiners
+
+### 2015 Raschka: Python Machine Learning, [Packt $36](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning)
+
+- Ch 1: Learning from Data
+    - 3 ways to transform data into knowledge
+        - Supervised learning to predict the future
+        - Reinforcement learning to "solve" interactive problems
+        - Unsupervised learning (clustering) to find hidden structure
+    - terminology and notation
+    - pipeline elements
+        - preprocessing data
+        - selecting a model
+        - training a model
+        - evaluating model performance
+        - prediction
+    - python
+
+### 2013 Russel: Mining the Social Web 2nd Ed, [O'Reilly $38](http://shop.oreilly.com/product/0636920030195.do)
+
+Fun machine learning projects and a [github repo](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition) with code. Uses industry-standard data science packages (pandas, scikit-learn, etc) as well as practical tools for aquiring and manipulating data, like json, web apis, unstructured text processing, etc.
+
+- Ch 1: Twitter
+    - Twitter API
+    - NLP
+- Ch 2: Facebook
+    - Social Graph API
+- Ch 3: Google +
+- Ch 4: Linked-In
+- Ch 5: Web Page Scraping
+- Ch 6: E-Mail
+- Ch 7: GitHub
+- Ch 8: Semantic Web
+- Ch 9: Twitter Cookbook
+
+### 2015 Bowles: Machine Learning in Python
+
+- Ch 1: Introduction
+    - Penalized Regression (Regularization) and Ensemble Methods
+- Ch 2:
+
+### 2015 Coelho: Building Machine Learning Systems with Python 2nd Ed
+
+- Ch 1: Python Tools and Explanation of "Modeling"
+    - SciPy and matplotlib
+    - numpy (efficiency, indexing, missing values)
+    - introduction to "modeling" (i.e. simulation)
+- Ch 2: Classification Example
+    - Datasets: Iris (flower), Seeds (wheat seeds)
+    - Experiment design (DOE, DOX or cross-validation)
+    - Features and Feature Engineering
+    - 
+
 
 ### 2014 Janssens: [Data Science at the Command Line](http://datascienceatthecommandline.com/) [$34 O'Reilly](http://shop.oreilly.com/product/0636920032823.do?cmp=af-strata-books-videos-product_cj_9781491947852_%25zp)
 

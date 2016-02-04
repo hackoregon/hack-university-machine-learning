@@ -1,3 +1,4 @@
+## Syllabus
 
 1. Intro
     - What is Machine Learning?
@@ -24,6 +25,8 @@
       - Ubuntu alternative
           - Ansible script to install everything?
           - `sudo -H pip install -r requirements.txt`?
+
+
 2. Evaluating Results
     - Accuracy
     - Precision v Recall
