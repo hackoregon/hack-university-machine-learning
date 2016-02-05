@@ -1,30 +1,7 @@
 ## Syllabus
 
-1. Intro
-    - What is Machine Learning?
-        - Artificial Intelligence
-        - Modeling (Regression)
-        - Statistics
-    - [Setting up your environment](install.md)
-        - All
-            - PyCharm or Sublime
-            - `git` (or git-bash)
-            - github account 
-            - GitHub Account
-            - Google Drive?
-            - Vagrant + VirtualBox + Docker
-                - [Mac Instructions](http://cjlarose.com/2014/03/08/run-docker-with-vagrant.html)
-      - Windows alternative
-          - Conda
-          - Jupyter
-          - Git-bash
-          - cygwin
-      - OSX alternative
-          - Brew
-          - Scikit-learn, etc
-      - Ubuntu alternative
-          - Ansible script to install everything?
-          - `sudo -H pip install -r requirements.txt`?
+### Lesson 1 -- [Getting Started](lesson01-getting-started.md)
+
 
 
 2. Evaluating Results
