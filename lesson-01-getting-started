@@ -9,18 +9,15 @@
 - Data Science?
 - [Setting up your environment](install.md)
 
-## [Install Your Tools](install.md)
-Learning vs teaching
-   Feature engineering
-Representation vs modeling
-   Master Algorithm
-
-Communication vs viz?
-
+Communication (transimitting info)
+Visualizstion (conveying knowledge to a human mind)
 
 Useful to get a feel for where machine learning works and how well it works... The state of the art.
 
-Examples
+## It's All Around Us
+
+Machine Learning snuck up on us and is now a part of nearly everything we do. Children spend most of their waking hours looking at a computer screen of some sort. Adults spend a little less time, but still much of their lives. Those screens are windows into a variety of machine learning systems.
+
 Brainstorm with students about ml in their lives
 - did they ride public transport, use Google maps, wayze, or Evans ridereport app
 - did they use their phone
@@ -29,11 +26,6 @@ interact with any websites?
   - purchases
   - analytics
   - advertisements
-
-If you have somehow avoided it today, I'm going to inject some ml. Answer a poll for me so i can learn which lectures worked well and which didn't. Get andrew at harv.is to sponsor us?
-
-Boots are already or companions. We are already cyborgs. So get to know your partner or you may lose control over your life to those pulling the puppet strings of the bots. Train them like you'd train your pet dog, or lizard
-    
 - Spam filter
 - Spelling corrector
 - Fraud detection
@@ -62,7 +54,25 @@ Boots are already or companions. We are already cyborgs. So get to know your par
 - Starbucks customer RF id
   - preference profiling
 - home automation
-  -
+
+
+## Motivation
+
+If you have somehow avoided it today, I'm going to inject some ml. Answer a poll for me so i can learn which lectures worked well and which didn't. Get andrew at harv.is to sponsor us?
+Bots are already our companions. We are already cyborgs. So get to know your partner or you may lose control over your life to those pulling the puppet strings of the bots. Train them like you'd train your pet dog, or lizard
+
+## [Install Your Tools](install.md)
+
+Learning vs teaching
+   Feature engineering
+Representation vs modeling
+   Master Algorithm
+
+## Regression
+
+- Linear Regression
+- Nonlinear Regression
+- Multivariate Regression
 
 Resources
 - https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md
