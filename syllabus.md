@@ -1,7 +1,8 @@
 ## Syllabus
 
-### Lesson 1 -- [Getting Started](lesson01-getting-started.md)
+### Lesson 1 -- [Getting Started](lesson-01-getting-started.md)
 
+### Lesson 2 -- [Evaluating Results](lesson-02-evaluating-results.md)
 
 
 2. Evaluating Results
@@ -14,10 +15,6 @@
     - Overfitting
         - Regularization
         - Random Dropout
-3. Regression
-    - Linear Regression
-    - Nonlinear Regression
-    - Multivariate Regression
 4. Information Theory
     - Entropy
         - Thermodynamics
