@@ -1,4 +1,4 @@
-# Hack University: Machine Learning Course
+# Hack University: Machine Learning
 
 Everything you need for the winter semester of [Hack Oregon](http://www.hackoregon.org/)'s
 [Hack University](http://www.hackoregon.org/hack-university/) course 
@@ -24,12 +24,8 @@ The best way to set up an environment for Machine Learning (and Data Science and
 
 ### [Contributors](contributors.md)
 
-#### Instructors
-
 - [Hobson](http://hobsonlane.com/)
 - [Zeke](http://ze6ke.com/)
-
-#### Contributors
-
 - [Hannes](http://hanneshapke.github.io/)
+- [Cole](http://uglyboxer.github.io/)
 - [Thunder](http://thundershiviah.github.io/)
