@@ -1,20 +1,11 @@
 ## Syllabus
 
-### Lesson 1 -- [Getting Started](lesson-01-getting-started.md)
+### Lesson 1 -- [Getting Started](day-01-getting-started.md)
 
-### Lesson 2 -- [Evaluating Results](lesson-02-evaluating-results.md)
+### Lesson 2 -- [Learning by Experimenting](day-02-learning-by-experimenting.md)
 
+### Lesson 3 -- [Bots](day-03-bots.md)
 
-2. Evaluating Results
-    - Accuracy
-    - Precision v Recall
-    - F1
-    - ROC
-    - Cross Validation (P-Value)
-        - Academic papers report 0.05 disproportionately
-    - Overfitting
-        - Regularization
-        - Random Dropout
 4. Information Theory
     - Entropy
         - Thermodynamics
