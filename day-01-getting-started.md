@@ -55,7 +55,7 @@ interact with any websites?
   - preference profiling
 - home automation
 
-[the list goes on](http://hobsonlane.com/Definition-of-AI-and-a-Big-List-of-Applications/)
+[the list goes on](http://hobsonlane.com/Definition-of-AI-and-a-Big-List-of-Applications/Exp)
 
 ## Motivation
 
