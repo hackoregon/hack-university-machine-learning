@@ -1,4 +1,4 @@
-# Intro
+# Getting Started
 
 ## What is Machine Learning?
 
@@ -10,7 +10,7 @@
 - [Setting up your environment](install.md)
 
 Communication (transimitting info)
-Visualizstion (conveying knowledge to a human mind)
+Visualization (conveying knowledge to a human mind)
 
 Useful to get a feel for where machine learning works and how well it works... The state of the art.
 
@@ -55,6 +55,7 @@ interact with any websites?
   - preference profiling
 - home automation
 
+[the list goes on](http://hobsonlane.com/Definition-of-AI-and-a-Big-List-of-Applications/)
 
 ## Motivation
 

@@ -1,4 +1,4 @@
-## Learning by Experimenting
+## Experimenting
 
 ### [DOX](https://en.wikipedia.org/wiki/Design_of_experiments)
 
@@ -6,7 +6,7 @@ Even though you're at Hack University, we're not going to teach you how to [DOX]
 
 One of the things that can make toddlers so challenging to teach is that they are natural, incorrigible, scientists. They experiment with the world every moment  of the day. Everything is new. So they try things to see how the world reacts. That's "Experiment Design" in action. So if you have children or toddler relatives that push a glass of milk off the table, don't scold them. Explain to them how gravity and liquids work and then show them how the mop works too! And if you have a particularly advanced child in your life, you can share this lesson with them about designing your experiments properly.
 
-### Design of Experiment
+### Experimenting
 
 Machines are like children, they only get smarter and more useful by making mistakes, proving things wrong. You need bad examples as well as good ones if you want to teach a machine to classify those examples. 
 
@@ -32,4 +32,17 @@ We're going to briefly give you a feel for various concepts taught in the Hack U
   - Regularization
   - Random Dropout
 
-### Project: Build a Confusion Matrix Class
+### Statistical Inference
+
+- Bayes Rule
+
+### Regression
+
+### Project: Build a Confusion Matrix
+
+- Binary classification
+  - matrix/dataframe with 4 values TP, TN, FP, FN
+- Multiple Category Classification
+  - NxN table of hits/misses in classification
+- Aggregate statistics methods
+- AUC (Area Under the Curve)
