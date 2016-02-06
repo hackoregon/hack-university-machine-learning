@@ -7,6 +7,11 @@ Ideas for HUML Class
 - live quizzes during class with [slack quizbot](https://github.com/codebyfire/slackquizbot)
 - twitter bot to follow hashtags from the class and collate results from questions/topics
 - get students to log a GPS track with MyTracks (or an iPhone app)
+- reuse old material by me and others
+  - [weather prediction with pybrain](http://slides.com/hobsonlane/pycon2015-predict-weather-with-pybrain#/)
+  - [neural net lecture at Little Bird]
+  - bitcrawl
+  - twip
 
 ## TODO
 
