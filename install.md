@@ -1,3 +1,5 @@
+http://twitter.com/home?status=Question%20about%20#huml%20@hobsonlane
+
 ## Install
 
 ### Preheat the Oven
@@ -19,12 +21,20 @@
 
 - [GitHub](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiU15m349_KAhVLy2MKHVy7C3YQFggdMAA&url=https%3A%2F%2Fgithub.com%2Fjoin&usg=AFQjCNF6nezHQWX1hKwEFQVYRrUheS9_Ig)
   - Keep track of your projects
-    - Roll back to previous versions when things break   
+    - "Undo" when you make mistakes
+    - `git checkout answer` when you have trouble with a project
   - Your forks of others' projects
   - Give back to the class by sharing your edits, material, links, code
   - Pull Requests to the Hack University projects
 - [the PDXData Slack org](https://pdxdata.slack.com/)
   - Head to the #hacku Channel once you have an account and are signed in to pdxdata.slack.com
+- [SignUp for a Twitter account](https://twitter.com/signup)
+  - You'll need it for the twip project
+  - [Tweet @hobsonlane](http://bit.ly/huml-help) so I can follow you
+  - [Follow @hackoregon](https://twitter.com/hackoregon)
+  - Include #huml in your tweets with questions or comments (**H**ack **U**niversity **M**machine **L**earning)
+    - bit.ly shortcut: [http://bit.ly/huml-help](http://bit.ly/huml-help)
+  - Follow your classmates tweets and the #huml hashtag 
 
 #### You probably Want a Local IDE
 
