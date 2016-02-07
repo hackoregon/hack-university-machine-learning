@@ -71,14 +71,14 @@ You probably also want `git` installed locally and have a way of running it from
 
 If I have to work on Windows, I always install
 
-- [Sublime Text 2 Free Edition](http://www.sublimetext.com/2)
+- [Sublime Text 2 Free Edition](install-sublime.md)
 - [CygWin](http://cygwin.com/install.html)
 - [Anaconda](https://www.continuum.io/downloads)
 - [Git-Bash](http://www.git-scm.com/downloads)
 
 #### OSX
 
-- [Sublime Text 2 Free Edition](http://www.sublimetext.com/2)
+- [Sublime Text 2 Free Edition](install-sublime.md)
 - [Anaconda](https://www.continuum.io/downloads)
 - [Git-Bash](http://www.git-scm.com/downloads)
 
