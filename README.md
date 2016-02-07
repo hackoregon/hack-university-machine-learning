@@ -8,9 +8,9 @@ Everything you need for the winter semester of [Hack Oregon](http://www.hackoreg
 
 ### Install the Box
 
-The best way to set up an environment for Machine Learning (and Data Science and Database Engineering) is to [install the Hack University Docker image](install.md). If you're the adventurous type, or you already do all your work on a Linux box, then you can just install the requirements mentioned in the [syllabus](syllabus.md) for each section of the course.
+The best way to set up an environment for Machine Learning (and Data Science and Database Engineering) is to [install the Hack University Docker image](install.md). If you're the adventurous type, or you already do all your work on a Linux box, then you can just install the requirements mentioned in the [syllabus](docs/syllabus.md) for each section of the course.
 
-## [Syllabus](syllabus.md)
+## [Syllabus](docs/syllabus.md)
 
 ## Slides
 
