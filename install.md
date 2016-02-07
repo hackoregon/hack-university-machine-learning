@@ -15,7 +15,7 @@ http://twitter.com/home?status=Question%20about%20#huml%20@hobsonlane
 
 [Download](https://www.vagrantup.com/downloads.html) the package for your OS (choose Debian for Ubuntu). Open the package with your installer (double click on the package in your Downloads directory). On Ubuntu "Software Center" will launch and you click either the orange "Install" or "Upgrade" button.
 
-### While you Wait for the Oven
+### While you Wait
 
 #### Web Accounts
 
@@ -35,41 +35,58 @@ http://twitter.com/home?status=Question%20about%20#huml%20@hobsonlane
   - Include #huml in your tweets with questions or comments (**H**ack **U**niversity **M**machine **L**earning)
     - bit.ly shortcut: [http://bit.ly/huml-help](http://bit.ly/huml-help)
   - Follow your classmates tweets and the #huml hashtag 
+- Google Drive or Gmail account (optional)
 
 #### You probably Want a Local IDE
 
-You can survive with an XWin connection to Sublime or PyCharm on the Vagrant Box ("guest" machine). But if you'd like a bit higher bandwidth and "native" feel, install them on your laptop (the Vagrant "host" machine)
+You can survive with an ssh and XWin connection to an editor on the Vagrant Box (virtual machine). But if you'd like a bit higher bandwidth and the "native" feel of your OS, install your favorite text editor on IDE on your laptop. Some of my favorites are: 
 
 - PyCharm
+  - integrated git
+  - integrated execution of python scripts
+  - not as useful for editing other languages
 - Sublime
+  - some basic execution of python scripts
+  - powerful regular expressions
+  - fast, clean
+  - useful plugins like linters for almost all languages
+  - easily customizable
+  - difficult to install and maintain plugins
 - Atom
+  - fast
+  - open source
+  - backed by GitHub and a favorite of Google developers
+  - customizable
+  - new, bleeding edge
 
-- `git` (or git-bash)
-  - Google Drive account
-  - Vagrant + VirtualBox + Docker
-      - [Mac Instructions](http://cjlarose.com/2014/03/08/run-docker-with-vagrant.html)
-    - Windows alternative
-        - Conda
-        - Jupyter
-        - Git-bash
-        - cygwin
-    - OSX alternative
-        - Brew
-        - Scikit-learn, etc
-    - Ubuntu alternative
-        - Ansible script to install everything?
-        - `sudo -H pip install -r requirements.txt`?
+You probably also want `git` installed locally and have a decent shell with "readline" (remembers your commands so you don't have to retype them).
 
-### Install Docker
+If I have to work on Windows, I always install
+
+- cygwin
+- Anaconda
+- Git-bash
+- Sublime
+
+On OSX
+
+- Brew
+- Sublime
+- git
+- Upgrade XCode
+
+On Linux I can usually get away with using the standard package manager (apt-get on Ubuntu) and `pip`
+
+`sudo -H pip install -r requirements.txt`?
 
 ### Get Going
 
 Once VirtualBox and vagrant are downloaded and installed [Get Started](https://www.vagrantup.com/docs/getting-started/) crank up your first VirtualBox.
 
 ```bash
-$ mkdir huml
-$ cd huml
-$ vagrant init hashicorp/precise64
+$ mkdir dst
+$ cd dst
+$ vagrant init data-science-toolbox/dst
 $ vagrant up
 ```
 
