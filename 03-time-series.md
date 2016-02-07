@@ -35,11 +35,15 @@ But time series data has a lot of quirks to worry about
   - features
     - days of the week
     - months of the year
-  - leap years
-  - day of the year
-  - day of the month
-  - day of the quarter
-  - quarter of the year
+    - leap years
+    - day of the year
+    - day of the month
+    - day of the quarter
+    - quarter of the year
+  - segmentation
+  - data points are highly correlated with each other
+  - time and relative time are added dimensions of all features
+  - order of samples matters 
 - Adding and subtracting times in python
 - Preprocessing
   - What is DSP

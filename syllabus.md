@@ -1,10 +1,12 @@
 ## Syllabus
 
-### Lesson 1 -- [Getting Started](day-01-getting-started.md)
+### Day 1: [Getting Started](01-getting-started.md)
 
-### Lesson 2 -- [Learning by Experimenting](day-02-learning-by-experimenting.md)
+### Day 2: [Learning by Experimenting](02-learning-by-experimenting.md)
 
-### Lesson 3 -- [Bots](day-03-bots.md)
+### Day 3: [Time Series](03-time-series.md)
+
+### Day 4: [Bots](03-bots.md)
 
 4. Information Theory
     - Entropy
