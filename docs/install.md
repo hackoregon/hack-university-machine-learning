@@ -90,6 +90,8 @@ On Linux I can usually get away with using the standard package manager (apt-get
 
 Once VirtualBox and vagrant are downloaded and installed [Get Started](https://www.vagrantup.com/docs/getting-started/) crank up your first VirtualBox.
 
+You don't want to do this over a Cafe WiFi, or on a laptop without a lot of harddrive space left.  The `vagrant up` command has to first download the DataScienceToolbox file, and it's huge (850 MB). If you have an Ethernet jack handy you might **plug in** before running the `vagrant up` command... 
+
 ```bash
 $ mkdir dst
 $ cd dst
@@ -105,4 +107,4 @@ If you'd like others to be able to query your database or run and edit your ipyt
 
 ## Finally
 
-Now you can review the [syllabus](docs/syllabus.md) and start working on some problems.
+Now you can review the [syllabus](syllabus.md) and start working on some problems.
