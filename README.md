@@ -29,3 +29,4 @@ The best way to set up an environment for Machine Learning (and Data Science and
 - [Hannes](http://hanneshapke.github.io/)
 - [Cole](http://uglyboxer.github.io/)
 - [Thunder](http://thundershiviah.github.io/)
+- [Ebrahim](https://www.linkedin.com/in/safadi/)
