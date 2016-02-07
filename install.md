@@ -90,3 +90,9 @@ $ vagrant init data-science-toolbox/dst
 $ vagrant up
 ```
 
+Follow the rest of the instructions for the [Data Science Toolbox](http://datasciencetoolbox.org/) to set up ipython notebook to run on the virtualbox you just built. You might also like having the dsftcl bundle installed on your box, if you like using Linux shell to process lots of data quickly.
+
+### Pro Tip (optional)
+
+If you'd like others to be able to query your database or run and edit your ipython notebooks on your server running on your laptop, you just need to share the IP address of your Vagrant box with them. And you'll need to ensure that your Vagrant box is configured to use NAT and set up the host machine (your laptop) forward port 8888, 80, and 8000 (or whatever ports you need) through Vagrant (VirtualBox).
+
