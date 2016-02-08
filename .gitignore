@@ -1,8 +1,9 @@
+# Hack University Data 
 *.csv
 *.zip
 *.tgz
-*.pyc
 *.json
+.ipynb_checkpoints/
 
 # Temporary and binary files
 *~
