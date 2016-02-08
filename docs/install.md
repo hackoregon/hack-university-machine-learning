@@ -17,7 +17,11 @@ On the vagrant [Download page](https://www.vagrantup.com/downloads.html), find t
 
 ### While you Wait
 
-#### Web Accounts
+If your box downloads quickly, you can skip to the bottom and [Get Going](#get-going)
+
+Otherwise you can [set up accounts](#set-up-accounts) with GitHub, etc while you wait.
+
+#### Set Up Accounts
 
 - [GitHub](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiU15m349_KAhVLy2MKHVy7C3YQFggdMAA&url=https%3A%2F%2Fgithub.com%2Fjoin&usg=AFQjCNF6nezHQWX1hKwEFQVYRrUheS9_Ig)
   - Keep track of your projects
@@ -35,7 +39,8 @@ On the vagrant [Download page](https://www.vagrantup.com/downloads.html), find t
   - Include #huml in your tweets with questions or comments (**H**ack **U**niversity **M**machine **L**earning)
     - bit.ly shortcut: [http://bit.ly/huml-help](http://bit.ly/huml-help)
   - Follow your classmates tweets and the #huml hashtag 
-- Google Drive or Gmail account (optional)
+- Google Drive or Gmail account
+  - Put your name into [this spreadsheet](https://docs.google.com/spreadsheets/d/19HvN07XSNjlWF3TwLnyCUsCwXGBGwu15TemvVSIDwiI/edit?usp=sharing)
 
 #### Text Editor
 
@@ -93,13 +98,13 @@ Once VirtualBox and vagrant are downloaded and installed [Get Started](https://w
 You don't want to do this over a Cafe WiFi, or on a laptop without a lot of harddrive space left.  The `vagrant up` command has to first download the DataScienceToolbox file, and it's huge (850 MB). If you have an Ethernet jack handy you might **plug in** before running the `vagrant up` command... 
 
 ```bash
-$ mkdir dst
-$ cd dst
-$ vagrant init data-science-toolbox/dst
+$ mkdir HackOregonDST
+$ cd HackOregonDST
+$ vagrant init bmcgair/HackOregonDST
 $ vagrant up
 ```
 
-Follow the rest of the instructions for the [Data Science Toolbox](http://datasciencetoolbox.org/) to set up ipython notebook to run on the virtualbox you just built. You might also like having the dsftcl bundle installed on your box, if you like using Linux shell to process lots of data quickly.
+Follow the rest of the instructions for the [Data Science Toolbox](http://datasciencetoolbox.org/) to set up ipython notebook to run on Bill's virtualbox you just downloaded and booted. You might also like having the dsftcl bundle installed on your box, if you like using Linux shell to process lots of data quickly.
 
 ### Pro Tip (optional)
 
