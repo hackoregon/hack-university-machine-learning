@@ -8,7 +8,18 @@
 - Statistics?
 - Data Science?
 
-In some ways, machine learning is automated data science. But machine learning requires a lot of human learning and understanding (otherwise you wouldn't be here). So maybe it's more like what a software developer would do if she were given a data science problem. And data science is just using data to create representations or abstractions of data. Often these representations are useful for performing prediction. Predicting the future is what humans spend their lives learning how to do. It's why children perform "experiments" by pushing their food of the table and onto the floor. They are testing their "hypothesis" that a caregiver will put it back on the table or clean up the mess. They are also testing their hypothesis that the food won't just disappear, or transform into something different (like icecream), or become unedible.
+In some ways, machine learning is automated data science.  
+But machine learning requires a lot of human learning and understanding (otherwise you wouldn't be here).  
+So maybe it's more like what a software developer would do if she were given a data science problem.
+
+## What is Data Science?
+
+"A statistician in Silicon Valley"
+
+"Someone that knows more statistics than a developer and more comouter science than a statistician"
+
+Data Science is just using data to create representations or abstractions of data.  
+Often these representations are useful for performing prediction. Predicting the future is what humans spend their lives learning how to do. It's why children perform "experiments" by pushing their food of the table and onto the floor. They are testing their "hypothesis" that a caregiver will put it back on the table or clean up the mess. They are also testing their hypothesis that the food won't just disappear, or transform into something different (like icecream), or become unedible.
 
 Just like a child, machines have to perform experiments  repeatedly with the same starting conditions (inputs) and also with a large variety of inputs, before they'll get "bored" and be certain that they know how to predict the future for new examples.
 
