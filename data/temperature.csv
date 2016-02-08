@@ -1,0 +1,15 @@
+"f","c","k","description"
+-459.67,-273.15,0,"Absolute 0"
+28.4,-2,271.15,"seawater freezes"
+32,0,273.15,"water freezes"
+68,20,293.15,
+86,30,303.15,
+122,50,323.15,
+158,70,343.15,
+194,90,363.15,
+212,100,373.15,"water boils"
+1220,660,933.15,"aluminum freezes"
+1517,825,1098.15,"petroleum fire temperature"
+2732,1500,1773.15,"steel freezes"
+6920,3826.85,4100,"aluminum burns"
+27000032,15000000,14999726.85,"Sun"
