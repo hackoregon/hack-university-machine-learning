@@ -17,3 +17,5 @@ It's often taught in High School and when I was in school we learned the "slope"
   - `b = mean(x * a - y)`
 - nerd: use optimization
   - `minimize(y - (a * x + b), a0=0, b0=0)`
+
+[Notebooks](../huml/day4)

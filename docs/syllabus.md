@@ -1,8 +1,16 @@
 ## Syllabus
 
-### Day 1: [Getting Started](01-getting-started.md)
+### Day 1: Getting Started
 
-### Day 2: [Learning by Experimenting](02-learning-by-experimenting.md)
+[Discussion](01-getting-started.md)
+
+[Notebooks](../huml/day1)
+
+### Day 2: [Learning by Experimenting]
+
+[Discussion](02-learning-by-experimenting.md)
+
+[Notebooks](../huml/day2)
 
 ### Day 3: [Time Series](03-time-series.md)
 

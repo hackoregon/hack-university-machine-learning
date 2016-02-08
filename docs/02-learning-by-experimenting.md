@@ -10,6 +10,16 @@ One of the things that can make toddlers so challenging to teach is that they ar
 
 Machines are like children, they only get smarter and more useful by making mistakes, proving things wrong. You need bad examples as well as good ones if you want to teach a machine to classify those examples. 
 
+### Learning vs Teaching
+
+- Most people learn by doing.  
+  - So do machines.  
+- Teachers show their students what things are important
+  - Data Scientists show machines which "features" to learn
+  - Also have to show them how to compute and do anything those features ;) 
+
+### Data Science 
+
 We're going to briefly give you a feel for various concepts taught in the Hack University Data Science course by Heidi Perry.
 
 - Accuracy
@@ -35,6 +45,7 @@ We're going to briefly give you a feel for various concepts taught in the Hack U
 ### Statistical Inference
 
 - Bayes Rule
+- Naive Bayes model/prediction
 
 ### Regression
 
@@ -46,3 +57,5 @@ We're going to briefly give you a feel for various concepts taught in the Hack U
   - NxN table of hits/misses in classification
 - Aggregate statistics methods
 - AUC (Area Under the Curve)
+
+[Notebooks](../day2/)
