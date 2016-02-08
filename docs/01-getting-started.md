@@ -16,7 +16,7 @@ So maybe it's more like what a software developer would do if she were given a d
 
 "A statistician in Silicon Valley"
 
-"Someone that knows more statistics than a developer and more comouter science than a statistician"
+"Someone that knows more statistics than a developer and more computer science than a statistician"
 
 Data Science is just using data to create representations or abstractions of data.  
 Often these representations are useful for performing prediction. Predicting the future is what humans spend their lives learning how to do. It's why children perform "experiments" by pushing their food of the table and onto the floor. They are testing their "hypothesis" that a caregiver will put it back on the table or clean up the mess. They are also testing their hypothesis that the food won't just disappear, or transform into something different (like icecream), or become unedible.
