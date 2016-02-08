@@ -93,9 +93,9 @@ On Linux I can usually get away with using the standard package manager (apt-get
 
 ### Get Going
 
-Once VirtualBox and vagrant are downloaded and installed [Get Started](https://www.vagrantup.com/docs/getting-started/) crank up your first VirtualBox.
+Once you've installed VirtualBox and Vagrant you can boot up your first Vagrant box. Below I've modified [Vagrant's instructions](https://www.vagrantup.com/docs/getting-started/) to use Bill McGair's [customized version](https://atlas.hashicorp.com/boxes/search?utf8=%E2%9C%93&sort=&provider=&q=HackOregonDST](http://datasciencetoolbox.org).
 
-You don't want to do this over a Cafe WiFi, or on a laptop without a lot of harddrive space left.  The `vagrant up` command has to first download the DataScienceToolbox file, and it's huge (850 MB). If you have an Ethernet jack handy you might **plug in** before running the `vagrant up` command... 
+You don't want to do this over a slow Cafe WiFi, or on a laptop that is running out of hard drive space.  The `vagrant up` command below has to first download the DataScienceToolbox *.box file, and it's huge (850 MB). If you have an Ethernet jack handy you might **plug in** before running the `vagrant up` command... 
 
 ```bash
 $ mkdir HackOregonDST

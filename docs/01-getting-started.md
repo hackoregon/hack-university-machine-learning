@@ -18,6 +18,16 @@ So maybe it's more like what a software developer would do if she were given a d
 
 "Someone that knows more statistics than a developer and more computer science than a statistician"
 
+- You're going to learn statistics if you are a python developer
+- You're going to learn python and data if you already know stats
+- You're going to to know a lot about everything when we're done
+
+## What do you want to learn?
+
+- Tell me about your plans, career, ideas
+
+## Data Science
+
 Data Science is just using data to create representations or abstractions of data.  
 Often these representations are useful for performing prediction. Predicting the future is what humans spend their lives learning how to do. It's why children perform "experiments" by pushing their food of the table and onto the floor. They are testing their "hypothesis" that a caregiver will put it back on the table or clean up the mess. They are also testing their hypothesis that the food won't just disappear, or transform into something different (like icecream), or become unedible.
 
