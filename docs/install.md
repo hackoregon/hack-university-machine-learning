@@ -4,7 +4,7 @@
 
 #### [Download VirtualBox](https://www.virtualbox.org/wiki/Downloads) 
 
-Find the right package for your OS:
+Virtual Box is the software for a dashboard that allows you to run a small linux computer within your laptop!  Find the right package for your OS and install it:
 
 - [Ubuntu 15.03](http://download.virtualbox.org/virtualbox/5.0.14/virtualbox-5.0_5.0.14-105127~Ubuntu~wily_amd64.deb)
 - [any Linux](https://www.virtualbox.org/wiki/Linux_Downloads)
@@ -13,9 +13,11 @@ Find the right package for your OS:
 
 #### [Download Vagrant](https://www.vagrantup.com/downloads.html)
 
-On the vagrant [Download page](https://www.vagrantup.com/downloads.html), find the package for your OS (Debian = Ubuntu). Open the package with your installer (double click on the package in your Downloads directory). On Ubuntu "Software Center" will launch and you click either the orange "Install" or "Upgrade" button.
+Vagrant is a system that allows you to automate a lot of the process involved in configuring and controlling Virtual Box machines on your laptop. 
 
-### While you Wait
+Go to the Vagrant [download page](https://www.vagrantup.com/downloads.html) to find the installation package for your OS. Download the package and double click it to open it with your package manager (software installer). On Ubuntu, the "Software Center" will launch and you click either the orange "Install" or "Upgrade" button.
+
+### While You Wait
 
 If your box downloads quickly, you can skip to the bottom and [Get Going](#get-going)
 
@@ -30,8 +32,9 @@ Otherwise you can [set up accounts](#set-up-accounts) with GitHub, etc while you
   - Your forks of others' projects
   - Give back to the class by sharing your edits, material, links, code
   - Pull Requests to the Hack University projects
-- [the PDXData Slack org](https://pdxdata.slack.com/)
-  - Head to the #hacku Channel once you have an account and are signed in to pdxdata.slack.com
+- Join us on [Slack](hackuniversity.slack.com)
+  - We'll use Slack for polls and questions during class
+  - You might also enjoy [PDXData.Slack.com](https://hackuniversity.slack.com/)
 - [SignUp for a Twitter account](https://twitter.com/signup)
   - You'll need it for the twip project
   - [Tweet @hobsonlane](http://bit.ly/huml-help) so I can follow you
