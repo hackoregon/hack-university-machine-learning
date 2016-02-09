@@ -1,5 +1,7 @@
 # Getting Started
 
+First lets find out if you're in the right class ;)
+
 ## What is Machine Learning?
 
 - Artificial Intelligence?
@@ -9,14 +11,23 @@
 - Data Science?
 
 In some ways, machine learning is automated data science.  
-But machine learning requires a lot of human learning and understanding (otherwise you wouldn't be here).  
-So maybe it's more like what a software developer would do if she were given a data science problem.
+But you can't automate all of Data Science.  
+Machine's need a lot of help from humans.  
+In future sessions we'll learn about [generative models](0X-NLP-generative-models.md) and genetic algorithms for developing software and writing code. But these systems are a long way from taking our jobs as Data Scientists and Machine Assistants.  
+It takes human understanding to build a system(otherwise you wouldn't be here).  
+And it requires a lot of effort to [get data ready](http://www.kdnuggets.com/2015/05/data-science-inconvenient-truth.html) for machine learning.
 
-## What is Data Science?
+So maybe Machine Learning is:
+
+> What a software developer would do if she were given a data science problem.
+
+A Machine Learning expert is:
+
+> Someone that knows more statistics than a developer and more computer science than a statistician"
+
+## Data Science
 
 "A statistician in Silicon Valley"
-
-"Someone that knows more statistics than a developer and more computer science than a statistician"
 
 - You're going to learn statistics if you are a python developer
 - You're going to learn python and data if you already know stats
