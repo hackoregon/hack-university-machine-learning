@@ -1,3 +1,6 @@
 [submodule "python-rtmbot"]
 	path = python-rtmbot
 	url = git@github.com:totalgood/python-rtmbot.git
+[submodule "twip"]
+	path = twip
+	url = git@github.com:totalgood/twip.git
