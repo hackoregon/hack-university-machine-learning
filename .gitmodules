@@ -1,0 +1,3 @@
+[submodule "python-rtmbot"]
+	path = python-rtmbot
+	url = git@github.com:totalgood/python-rtmbot.git
