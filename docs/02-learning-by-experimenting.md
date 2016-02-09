@@ -14,9 +14,10 @@ Machines are like children, they only get smarter and more useful by making mist
 
 - Most people learn by doing.  
   - So do machines.  
-- Teachers show their students what things are important
-  - Data Scientists show machines which "features" to learn
-  - Also have to show them how to compute and do anything those features ;) 
+- Teachers show their students what things are important  
+  - Data Scientists show machines which "features" to learn  
+  - Also have to show them how to compute and do anything those features ;)  
+
 
 ### Data Science 
 
