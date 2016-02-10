@@ -101,9 +101,10 @@ Once you've installed VirtualBox and Vagrant you can boot up your first Vagrant 
 You don't want to do this over a slow Cafe WiFi, or on a laptop that is running out of hard drive space.  The `vagrant up` command below has to first download the DataScienceToolbox *.box file, and it's huge (850 MB). If you have an Ethernet jack handy you might **plug in** before running the `vagrant up` command... 
 
 ```bash
-$ mkdir HackOregonDST
-$ cd HackOregonDST
-$ vagrant init bmcgair/HackOregonDST
+$ mkdir hackoregon-dst
+$ cd hackoregon-dst
+$ vagrant init bmcgair/hackoregon-dst
+$ vagrant plugin install vagrant-vbguest
 $ vagrant up
 ```
 
