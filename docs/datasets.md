@@ -11,5 +11,5 @@
 ## Academic Studies
 
 - [2015 Gau mQA data](http://face.baidu.com/nips/FM-IQA.tar.gz)
-- [2015 Molay](http://gyro.ktam.org/): Mobil Web App to record accel and gyro from any phone!
+- [2015 Molay](http://gyro.ktam.org/): Mobile Web App to record accel and gyro from any phone!
 - [Accelerometer Monitor](https://play.google.com/store/apps/details?id=com.lul.accelerometer): Android App

@@ -2,6 +2,10 @@
 
 Ideas for HUML Class
 
+- Meta
+  - the meaning of words
+  - the markhov chain of probabilities of associations
+- lecture on Solar panel generation and building power consumption (SS)
 - lecture on data, cleaning preprocessing, aquiring, project selection
 - survey the class on operating system, language knowledge, math/education and start helping students build data set for predicting class performance
 - live quizzes during class with [slack quizbot](https://github.com/codebyfire/slackquizbot)

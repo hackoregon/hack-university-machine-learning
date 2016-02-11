@@ -77,3 +77,6 @@ Generating and extracting features from time series data requires creativity, se
   - nonoverlapping windows
   - rolling windows
 - IMU "registration" or normalization
+  - Kalman Filter on just acceleromters
+  - Kalman Filter on gyros and accels
+  - Subtract a moving average/bias (gravity) 
