@@ -4,3 +4,6 @@
 [submodule "twip"]
 	path = twip
 	url = git@github.com:totalgood/twip.git
+[submodule "slackquizbot"]
+	path = slackquizbot
+	url = git@github.com:totalgood/slackquizbot.git

@@ -2,11 +2,29 @@
 
 ## Online Courses
 
+[HUML Syllabus](https://docs.google.com/spreadsheets/d/19HvN07XSNjlWF3TwLnyCUsCwXGBGwu15TemvVSIDwiI/edit?usp=sharing)
+
 ## Tutorials
+
+- [Pandas Tutorial by Brandon Rhodes at PyCon 2015](https://github.com/brandon-rhodes/pycon-pandas-tutorial)
+- [Pandas Documentation on `.fillna` and `.notnull`](http://pandas.pydata.org/pandas-docs/stable/missing_data.html)
+- [SQL Tutorial by Mode Analytics](https://sqlschool.modeanalytics.com/toc/)
+- ["NoSQL" Databases](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 
 ## Videos
 
-## Code
+[Udacity IML videos](https://www.udacity.com/course/viewer#!/c-ud120/l-2254358555/e-3004778636/m-3022458587)
+- [Udacity Naive Bayes Lesson](https://www.udacity.com/course/viewer#!/c-ud120/l-2254358555/m-3013708686)
+
+
+## Python + Data
+
+### Springboard
+
+- [JSON and DataFrame Queries](https://www.springboard.com/static/project_files/data_wrangling_json.zip)
+- [Human Body Temperature Statistics](https://www.springboard.com/static/project_files/statistics_project1.zip)
+- [Correlation between race and Job Application Call-backs](https://www.springboard.com/static/project_files/statistics_project2.zip)
+- [Hospital Readmission Statistics](https://www.springboard.com/static/project_files/statistics_project3.zip)
 
 ## [Books](books.md)
 
