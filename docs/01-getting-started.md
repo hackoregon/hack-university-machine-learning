@@ -13,7 +13,8 @@ First lets find out if you're in the right class ;)
 In some ways, machine learning is automated data science.  
 But you can't automate all of Data Science.  
 Machine's need a lot of help from humans.  
-In future sessions we'll learn about [generative models](0X-NLP-generative-models.md) and genetic algorithms for developing software and writing code. But these systems are a long way from taking our jobs as Data Scientists and Machine Assistants.  
+In future sessions we'll learn about [generative models](0X-NLP-generative-models.md) and genetic algorithms for developing software and writing code.  
+But these systems are a long way from taking our jobs as Data Scientists and Machine Assistants.  
 It takes human understanding to build a system(otherwise you wouldn't be here).  
 And it requires a lot of effort to [get data ready](http://www.kdnuggets.com/2015/05/data-science-inconvenient-truth.html) for machine learning.
 
