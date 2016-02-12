@@ -1,0 +1,6 @@
+Hobson has two decades of teaching and engineering experience in robotics, data science, and natural language processing. Hobson uses Python to build cutting-edge autonomous systems and webapps for businesses, large and small, for-profit and nonprofit--[Squishy Media](http://squishymedia.com/), [Building Energy](http://www.buildingenergy.com/), Sharp Labs, [Total Good](http://totalgood.com), [Hack Oregon](http://hackoregon.org), Pellego, Intel Labs, and [Talentpair](http://talentpair.com). For all of them he insisted on not only exclusively using open source tools, but also contributing to open source projects. Hobson teaches these best-practices as an instructor at [Hack University](http://www.hackoregon.org/database-cohort) and as a mentor for [Springboard](http://springboard.com), [Georgia Tech](gatech.edu), [FIRST Robotics](https://www.facebook.com/team1432), [TotalGood](http://totalgood.com) and [Chick Tech](http://chicktech.org/).
+
+- [Linked-In profile](https://www.linkedin.com/in/hobsonlane)
+- [GitHub profile](http://github.com/hobson/)
+- [Blog](http://hobsonlane.com)
+- [Recent talks](http://hobsonlane.com/talks)
