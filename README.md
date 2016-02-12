@@ -12,7 +12,7 @@ The best way to set up an environment for Machine Learning (and Data Science and
 
 ## [Syllabus](docs/syllabus.md)
 
-## [Slides](docs/slides/README.md)
+## [Slides](docs/slides/README.md#slides)
 
 ## Videos
 
