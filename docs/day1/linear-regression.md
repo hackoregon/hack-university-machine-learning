@@ -1,4 +1,4 @@
-04-Regression
+# Regression
 
 Regression is one of the most basic forms of Machine Leaning
 It's often taught in High School and when I was in school we learned the "slope" and "intercept" equation for converting from Fahrenheit to Celsius and Kelvin.

@@ -11,6 +11,7 @@
 - [Pandas Documentation on `.fillna` and `.notnull`](http://pandas.pydata.org/pandas-docs/stable/missing_data.html)
 - [SQL Tutorial by Mode Analytics](https://sqlschool.modeanalytics.com/toc/)
 - ["NoSQL" Databases](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
+- ["Excellent Interactive Neural Net Tutorial](http://neuralnetworksanddeeplearning.com/chap1.html)
 
 ## Videos
 
@@ -32,6 +33,10 @@
 This course will pull examples and ideas from multiple sources, but most closely resembles the content and structure of the second half of Grus's book Learning Data Science from Scratch from [O'Reilly $34](http://shop.oreilly.com/product/0636920033400.do). Google "promo code O'Reilly" and you should be able to get 50% off.
 
 Raschka book published by PackT ($35, but can sometimes get a promo code for 20% off)
+
+## [Papers](papers.md)
+
+NIPS has a free, open database of all their papers. You can find a few others in the link above. Machine Intelligence engineers and publishers are usually pretty open with their research.
 
 ## Some Thunder
 
