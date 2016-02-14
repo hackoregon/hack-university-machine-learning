@@ -1,5 +1,18 @@
 ## Hack Oregon Applications
 
+### PlotPDX
+
+What would you do with a ton of [Geographic Data about Portland](http://ec2-52-88-193-136.us-west-2.compute.amazonaws.com/services/)
+
+- Demolition Permits
+- Crime Data
+- Building Permits
+
+What would you show, visualize?
+What would you predict, cluster, compare?
+What other data would you need/like?
+
+
 ### Campaign Finance
 
 If you had the financial transaction records for all Oregon:

@@ -2,11 +2,17 @@
 
 ## Agenda
 
+1. Logistics
+2. Project: [Get to Know Your Environment](environment-essentials.md)
+    - `pip`, `conda`, `apt`, or `brew`
+    - `bash` or `cygwin`
+    - Python and `git`
+    - [Sublime](install-sublime.md) or `PyCharm`
 1. Problem and solution types
 2. Project: revisit crime data and classify or regress
 3. Bots (Agents)
 4. Project: set up and build your bot
-5. 
+
 
 ## Books in the "Library"
 
@@ -39,7 +45,7 @@ The information is still in there somewhere... I promise. You just have to spend
 - How can I get help about a function or method or class or object in ipython
   - Can I get the source code?
 - How can quickly find the expression I typed an hour ago?
-  - BONUS: in ipython, how can I turn eveything I wrote for the past session into a script?
+  - BONUS: in ipython, how can I turn everything I wrote for the past session into a script?
   - DOUBLE BONUS: the session before this one?
 - How do you copy a repository to your computer for the first time?
 - What is a Regression?
