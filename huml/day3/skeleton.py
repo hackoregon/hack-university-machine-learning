@@ -15,7 +15,7 @@ also be used as template for Python modules.
 
 Note: This skeleton file can be safely removed if not needed!
 """
-from __future__ import division, print_function, absolute_import
+from __future__ import division, print_function, absolute_import, unicode_literal
 
 import argparse
 import sys
