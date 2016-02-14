@@ -1,0 +1,103 @@
+---
+layout: post
+title: git
+lang: en
+revealjs-url: ''  # for absolute path to lib/ and css/ folders use '/'
+theme: black
+transition: fade  # none/fade/slide/convex/concave/zoom
+center: false
+---
+
+# Git
+
+## The coolest tool on the planet
+
+---
+
+# GitHub
+
+- `GitHub` is not `git`
+- One of many web interfaces to a `git` repo
+- It's a corporation, a website
+  - Efficient, open, generous, socially responsible, sustainable company
+  - For-Profit
+
+- Most pro-social company on the planet?
+
+---
+
+# GitHub Niceness 
+
+- Hosts static websites for free
+  - no database
+  - no python
+  - nothing `persistent`
+- Renders popular file formats natively
+  - iPython notebooks 
+  - Markdown
+  - JPG, PNG
+  - not PDF?
+- Pull Requests!
+
+---
+
+# Pull Requests
+
+- a `diff` file sent to 
+---
+# The Story
+
+- Linus upset with `hg` (Mercurial) and bitbucket (Atlassian)
+    - Started inching up his "subscription" plan for Linux
+    - Wouldn't implement important security features
+        - friendly with sabatouers from Windows?
+- Linus and LF put their minds together and built `git` in a week or two
+- Built GitHub in a few months
+- All Linux development happens on git
+- Google just shut down Google Code in favor of GitHub
+- Focussed on efficiency for the user
+    - helpful prompts when something goes wrong
+    - RTM
+
+---
+
+# Integrations
+
+- Thousands of 3rd party apps integrate with it
+- You can deploy a complex application just by pushing to GitHub
+
+---
+
+# Tutorials
+
+- [Official `git` book](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+- [An in-your-face introduction](http://rogerdudler.github.io/git-guide/) is pretty good.
+- [A humble, casual tutorial](https://blog.interlinked.org/tutorials/git.html)
+
+---
+
+# Workflow
+
+
+Developers have a workflow like factory workers.
+
+Your work must integrate with parts from others.
+
+Your workflow is how you "play nice" with others.
+
+You don't need to worry about this.
+
+[hack-university](http://github.com/hackoregon/hack-university-machine-learning) is your playground to learn in.
+
+---
+
+# Workflow
+
+- Flexibile tools, means lots of "workflow" options
+- how you
+  - `branch`
+  - `pull`
+  - `merge`
+  - `push`
+  - Deploy
+
