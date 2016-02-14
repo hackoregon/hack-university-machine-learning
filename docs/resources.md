@@ -6,6 +6,7 @@
 
 ## Tutorials
 
+- [PDX Python Guide](https://github.com/portlandpython/project-night)
 - [Pandas Tutorial by Brandon Rhodes at PyCon 2015](https://github.com/brandon-rhodes/pycon-pandas-tutorial)
 - [Pandas Documentation on `.fillna` and `.notnull`](http://pandas.pydata.org/pandas-docs/stable/missing_data.html)
 - [SQL Tutorial by Mode Analytics](https://sqlschool.modeanalytics.com/toc/)
