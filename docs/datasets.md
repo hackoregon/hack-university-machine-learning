@@ -1,6 +1,6 @@
 # Datasets
 
-## Oregon
+## Hack Oregon
 
 - [Civic Datasets](http://www.civicapps.org/datasets)
   - Portland crime data by year and location
@@ -12,6 +12,7 @@
     - user: admin
     - password: admin
   - Django admin interface to browse the BTC "schema" 
+- [CropPlot agricultural data](https://github.com/hackoregon/or-agriculture/blob/master/data-sources.csv)
 
 ## Academic Studies
 
@@ -24,6 +25,7 @@
 - [Quandl](https://www.quandl.com/)
   - historical home price data from Zillow etc
   - historical BitCoin price data, etc.
+- [USDA Food and Nutrient API](http://ndb.nal.usda.gov/ndb/doc/index)
 
 ## Federal Government
 
