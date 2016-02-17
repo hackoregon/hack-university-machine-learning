@@ -47,3 +47,7 @@ NIPS has a free, open database of all their papers. You can find a few others in
 - [How to set up a pyspark vagrant box](https://gist.github.com/ThunderShiviah/f340d7fe50bb751d8516)
 - [Jupyter's recommended stacks](https://github.com/jupyter/docker-stacks)
 - Use [conda](http://conda.pydata.org/) instead of pip on Windows
+
+
+## [Datasets](datasets.md)
+

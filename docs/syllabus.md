@@ -1,20 +1,40 @@
 ## Syllabus
 
-### Day 1: Getting Started
+### [Day 1](day1/): Getting Started
 
-[Discussion](01-getting-started.md)
+[Talk](day1/)
 
-[Notebooks](../huml/day1)
+[Code](../huml/day1)
 
-### Day 2: [Learning by Experimenting]
+### [Day 2](day2/): Essential Tools and Best Practices
 
-[Discussion](02-learning-by-experimenting.md)
+[Talk](docs/day2/)
 
-[Notebooks](../huml/day2)
+- git
+- a text editor or IDE
+- example problems (Hack Oregon)
 
-### Day 3: [Time Series](03-time-series.md)
+[Code](../huml/day2)
 
-### Day 4: [Bots](03-bots.md)
+### [Day 3](day3/):
+
+[Notebooks](../huml/day3)
+
+### [Day 4](day4/): 
+
+[Notebooks](../huml/day4)
+
+### [Day 5](day5/): 
+
+[Notebooks](../huml/day5)
+
+### [Day 6](day6/): 
+
+[Notebooks](../huml/day6)
+
+
+
+## Work in Progress (Here be Dragons)
 
 4. Information Theory
     - Entropy

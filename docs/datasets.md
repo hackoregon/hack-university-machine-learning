@@ -3,13 +3,41 @@
 ## Oregon
 
 - [Civic Datasets](http://www.civicapps.org/datasets)
-  - crime
+  - Portland crime data by year and location
 - [PlotPDX](http://ec2-52-88-193-136.us-west-2.compute.amazonaws.com/services/)
-  - building and demolition permits
-- [Campaign Finance](http://hackor.github.io)
+  - Building construction and demolition permits
+- [Campaign Finance, Behind the Curtain](http://hackor.github.io)
+  - zipped CSV files with transaction and filing data up to Sept 2015
+  - [human-browsable Django admin data view](http://totalgood.org/admin/)
+    - user: admin
+    - password: admin
+  - Django admin interface to browse the BTC "schema" 
 
 ## Academic Studies
 
 - [2015 Gau mQA data](http://face.baidu.com/nips/FM-IQA.tar.gz)
 - [2015 Molay](http://gyro.ktam.org/): Mobile Web App to record accel and gyro from any phone!
 - [Accelerometer Monitor](https://play.google.com/store/apps/details?id=com.lul.accelerometer): Android App
+
+## APIs
+
+- [Quandl](https://www.quandl.com/)
+  - historical home price data from Zillow etc
+  - historical BitCoin price data, etc.
+
+## Federal Government
+
+- [USDA Food Nutrient Database](www.ars.usda.gov)
+  - [Release 28](https://www.ars.usda.gov/SP2UserFiles/Place/12354500/Data/SR/SR28/dnload/sr28asc.zip)
+  - [Release 28 updates (additional entries)](https://www.ars.usda.gov/SP2UserFiles/Place/12354500/Data/SR/SR28/dnload/sr28upd.zip)
+
+## Interesting Torrent Search Queries
+
+- [Ashley Madison dump]()
+
+
+## Data Tools
+
+- [JSONView](https://chrome.google.com/webstore/search/JSONview?hl=en-US) plugin for Chrome
+  - decompresses and lays out json in a tree to make it easier to understand
+- [Python app for downloading historical weather data](https://github.com/hobson/pug-ann/tree/master/pug/ann/data)
