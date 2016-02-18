@@ -32,7 +32,12 @@
 
 This course will pull examples and ideas from multiple sources, but most closely resembles the content and structure of the second half of Grus's book Learning Data Science from Scratch from [O'Reilly $34](http://shop.oreilly.com/product/0636920033400.do). Google "promo code O'Reilly" and you should be able to get 50% off.
 
-Raschka book published by PackT ($35, but can sometimes get a promo code for 20% off)
+Raschka's book published by PackT ($35, but can sometimes get a promo code for 20% off) doesn't provide source code, but several people have worked some of the problems
+
+- [Chapter 8: NLP on Movie Reviews](https://github.com/raul23/python-machine-learning/blob/master/notebooks/chapter08.ipynb)
+- [Chapter 2: Perceptrons]
+  - [p 21](https://github.com/hakeon/MachineLearning/blob/master/Perceptron%20Learning%20Algorithm.ipynb)
+  - [with data](https://github.com/channelgrubb/PythonMachineLearning/tree/master/Ch2)
 
 ## [Papers](papers.md)
 
