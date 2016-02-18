@@ -1,6 +1,10 @@
-### Confusion
+# Confusion Matrix
 
-A confusion matrix is just a truth table of matches and mismatches between a set of classifications.
+A [confusion matrix] is just a truth table of matches and mismatches between a set of classifications. So it's often called:
+
+-  contingency table (or matrix)
+-  error matrix
+-  agreement matrix ? (my own positive spin on "confusion")
 
 [Example Graphic or Whiteboard Drawing]
 
