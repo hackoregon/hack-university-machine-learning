@@ -90,7 +90,7 @@ This course will pull examples and ideas from multiple sources, but most closely
         - prediction
     - python
 
-### 2016 [VanderPlas: Python Data Science Handbook -- Tools and Techniques for Developers](http://shop.oreilly.com/product/0636920034919.do)
+### 2016 VanderPlas: Python Data Science Handbook -- Tools and Techniques for Developers [$60 O'Reilly](http://shop.oreilly.com/product/0636920034919.do)
 
 Not scheduled for print release till later in 2016, but most chapters are available electronically now and it looks like a good resource for students that are new to Python.
 
