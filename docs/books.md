@@ -135,8 +135,6 @@ Fun machine learning projects and a [github repo](https://github.com/ptwobrussel
     - Datasets: Iris (flower), Seeds (wheat seeds)
     - Experiment design (DOE, DOX or cross-validation)
     - Features and Feature Engineering
-    - 
-
 
 ### 2014 Janssens: [Data Science at the Command Line](http://datascienceatthecommandline.com/) [$34 O'Reilly](http://shop.oreilly.com/product/0636920032823.do?cmp=af-strata-books-videos-product_cj_9781491947852_%25zp)
 
