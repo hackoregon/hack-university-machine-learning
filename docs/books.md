@@ -90,6 +90,18 @@ This course will pull examples and ideas from multiple sources, but most closely
         - prediction
     - python
 
+### 2016 [VanderPlas: Python Data Science Handbook -- Tools and Techniques for Developers](http://shop.oreilly.com/product/0636920034919.do)
+
+Not scheduled for print release till later in 2016, but most chapters are available electronically now and it looks like a good resource for students that are new to Python.
+
+- Ch 1: Whirlwind Tour of the Python Language
+- Ch 2: IPython Beyond Normal Python
+- Ch 3: Introduction to Numpy
+- Ch 4: Introduction to Pandas
+- Ch 5: Introduction to Matplotlib
+- Ch 6: TBD 
+- Ch 7: Machine Learning
+
 ### 2013 Russel: Mining the Social Web 2nd Ed, [O'Reilly $38](http://shop.oreilly.com/product/0636920030195.do)
 
 Fun machine learning projects and a [github repo](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition) with code. Uses industry-standard data science packages (pandas, scikit-learn, etc) as well as practical tools for aquiring and manipulating data, like json, web apis, unstructured text processing, etc.
