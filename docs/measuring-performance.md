@@ -62,3 +62,13 @@ Work your way from top to bottom with this feature set.
 - Aggregate statistics methods
 - AUC (Area Under the Curve)
 
+## Model Competence
+
+It's important to continuously monitor your model's "competence" over time.
+
+- the world may change
+- your training data may have sample bias
+  - seasonal
+  - selection bias
+  - nonrandom sampling
+- 
