@@ -71,4 +71,13 @@ It's important to continuously monitor your model's "competence" over time.
   - seasonal
   - selection bias
   - nonrandom sampling
-- 
+
+## Anomolies
+
+Anomolous inputs indicate your model's competence may be drifting.
+
+- measure feature vector distance from nearest other vector
+- manhattan
+- max difference along any dimension
+- distance from centroids of your clusters
+- make sure all clusters maintain a Gaussian distribution
