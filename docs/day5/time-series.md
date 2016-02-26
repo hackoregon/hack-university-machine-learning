@@ -1,5 +1,11 @@
 # Time Series
 
+## Ebrahim Safadi
+
+Ebrahim is drawn to the fuzzy area between science and engineering -- the science of exploratory analysis and prediction, and the engineering of production code deployed to cloud-based ML platforms and embedded in smart wearables.
+
+## Time Series
+
 Time series can be a gold mine for machine learning. It's fun (and valuable) to be able to forecast the future. 
 
 - sound files
@@ -80,3 +86,5 @@ Generating and extracting features from time series data requires creativity, se
   - Kalman Filter on just acceleromters
   - Kalman Filter on gyros and accels
   - Subtract a moving average/bias (gravity) 
+
+
