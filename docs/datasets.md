@@ -33,6 +33,8 @@ Competitions often have labeled datasets and many competitors open source their 
   - historical home price data from Zillow etc
   - historical BitCoin price data, etc.
 - [USDA Food and Nutrient API](http://ndb.nal.usda.gov/ndb/doc/index)
+- [MS COCO labeled Images](http://mscoco.org/dataset/#download)
+  - amazing results have been acheived by training CNN+RNNs on this dataset
 
 ## Federal Government
 
