@@ -62,3 +62,22 @@ Work your way from top to bottom with this feature set.
 - Aggregate statistics methods
 - AUC (Area Under the Curve)
 
+## Model Competence
+
+It's important to continuously monitor your model's "competence" over time.
+
+- the world may change
+- your training data may have sample bias
+  - seasonal
+  - selection bias
+  - nonrandom sampling
+
+## Anomolies
+
+Anomolous inputs indicate your model's competence may be drifting.
+
+- measure feature vector distance from nearest other vector
+- manhattan
+- max difference along any dimension
+- distance from centroids of your clusters
+- make sure all clusters maintain a Gaussian distribution
