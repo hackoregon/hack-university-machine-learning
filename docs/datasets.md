@@ -26,6 +26,8 @@ Competitions often have labeled datasets and many competitors open source their 
 - [2015 Gau mQA data](http://face.baidu.com/nips/FM-IQA.tar.gz)
 - [2015 Molay](http://gyro.ktam.org/): Mobile Web App to record accel and gyro from any phone!
 - [Accelerometer Monitor](https://play.google.com/store/apps/details?id=com.lul.accelerometer): Android App
+- [Google Syntacticly Tagged N-grams from 3.5 Million Books](http://commondatastorage.googleapis.com/books/syntactic-ngrams/syntngrams.final.pdf)
+  - [dataset](http://commondatastorage.googleapis.com/books/syntactic-ngrams/index.html) 
 
 ## APIs
 
@@ -33,6 +35,8 @@ Competitions often have labeled datasets and many competitors open source their 
   - historical home price data from Zillow etc
   - historical BitCoin price data, etc.
 - [USDA Food and Nutrient API](http://ndb.nal.usda.gov/ndb/doc/index)
+- [MS COCO labeled Images](http://mscoco.org/dataset/#download)
+  - amazing results have been acheived by training CNN+RNNs on this dataset
 
 ## Federal Government
 
