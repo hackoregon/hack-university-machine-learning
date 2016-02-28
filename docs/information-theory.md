@@ -1,8 +1,8 @@
 # Information Theory
 
-"Information is neither created nor destroyed"
+> Information is neither created nor destroyed
 
--- Charles Seife, _Decoding_the_Universe
+-- Charles Seife, _Decoding the Universe_
 
 Its been a long time since quantum physics was first accurately described by Maxwell, Bohr, Einstein, etc, but scientists and philosophers are just now begninning to realize that information may be driving it all. Maxwell's cat may not live or die when  human "sees" or measures the photon or the decohered state of the qubit. Nature "sees" and maintains a ledger of all information and will have "decided" the fate of the cat the instant the entangle photon(s) strike their detectors.
 
@@ -12,6 +12,6 @@ Information entropy is more fundamental than thermodynamic entropy. Thermodynami
 
 # Awe
 
-"Awe very properly hangs about it, since it is the immovable standard and silent witness of all our memories and assertions; and the past and the future, which in our anxious life are so differently interesting and so differently dark, are one seamless garment for the truth, shining like the sun."
+> Awe very properly hangs about it, since it is the immovable standard and silent witness of all our memories and assertions; and the past and the future, which in our anxious life are so differently interesting and so differently dark, are one seamless garment for the truth, shining like the sun.
 
--- George Santayana
+-- George Santayana, _Skepticism and Animal Faith_
