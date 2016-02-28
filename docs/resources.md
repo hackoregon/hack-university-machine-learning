@@ -12,6 +12,7 @@
 - [SQL Tutorial by Mode Analytics](https://sqlschool.modeanalytics.com/toc/)
 - ["NoSQL" Databases](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 - ["Excellent Interactive Neural Net Tutorial](http://neuralnetworksanddeeplearning.com/chap1.html)
+- [Word Embedding and Word2Vec Interactive Visualization](http://ronxin.github.io/wevi/) with FOSS js, css, svg
 
 ## Videos
 

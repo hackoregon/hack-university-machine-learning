@@ -87,4 +87,22 @@ Generating and extracting features from time series data requires creativity, se
   - Kalman Filter on gyros and accels
   - Subtract a moving average/bias (gravity) 
 
+## Terms to Remember
 
+We talked about these concepts during Ebrahim's lecture. I'll revisit them in the future and quiz you as well.
+
+- Parametric Model
+- Nonparametric Model
+- Autoregressive Model
+- Moving Average Model
+- Markhov Model
+- Hidden Markhov Model
+- Bernouli Process
+- Random Walk Process
+- Adaptive Model/Filter
+- Model Order (Polynomial Order)
+- Ovefitting, Generalizing
+- Cross Validation
+  - recall (accuracy on the training set)
+  - leave-one-out (when only use one sample at a time for testing)
+- 
