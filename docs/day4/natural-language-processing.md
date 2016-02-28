@@ -65,3 +65,13 @@
     - 100 Petabyte index
     - 1M servers 
 
+## PCA + CNN = Magic!
+
+- Deep Learning = PCA and many-layered Convolutional Neural Networks 
+- No "hard-coding" required
+- [Word2Vec](http://rare-technologies.com/word2vec-tutorial/) is uncannily good at "human" IQ tests
+- PCA = LSA = LSI = SVD
+    - Principal Component Analysis
+    - Latent Semantic Analysis
+    - Latent Semantic Indexing
+    - Singular Value Decomposition

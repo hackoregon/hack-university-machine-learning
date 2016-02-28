@@ -14,6 +14,13 @@
   - Django admin interface to browse the BTC "schema" 
 - [CropPlot agricultural data](https://github.com/hackoregon/or-agriculture/blob/master/data-sources.csv)
 
+## Competitions
+
+Competitions often have labeled datasets and many competitors open source their models, so you can see how well you are doing.
+
+- Kaggle
+  - ["Evergreen" or "Timelessness" classification of 10k URLs](https://www.kaggle.com/c/stumbleupon/data
+
 ## Academic Studies
 
 - [2015 Gau mQA data](http://face.baidu.com/nips/FM-IQA.tar.gz)
