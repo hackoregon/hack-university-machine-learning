@@ -28,6 +28,7 @@ Competitions often have labeled datasets and many competitors open source their 
 - [Accelerometer Monitor](https://play.google.com/store/apps/details?id=com.lul.accelerometer): Android App
 - [Google Syntacticly Tagged N-grams from 3.5 Million Books](http://commondatastorage.googleapis.com/books/syntactic-ngrams/syntngrams.final.pdf)
   - [dataset](http://commondatastorage.googleapis.com/books/syntactic-ngrams/index.html) 
+- [Bing Queries for Search Algorithm Training](http://research.microsoft.com/en-us/projects/mslr/)
 
 ## APIs
 
