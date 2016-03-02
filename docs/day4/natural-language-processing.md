@@ -75,3 +75,7 @@
     - Latent Semantic Analysis
     - Latent Semantic Indexing
     - Singular Value Decomposition
+
+## Advanced Techniques
+
+- [Kernel method](http://www.jmlr.org/papers/volume2/lodhi02a/lodhi02a.pdf) for document matching
