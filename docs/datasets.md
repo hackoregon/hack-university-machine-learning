@@ -29,6 +29,8 @@ Competitions often have labeled datasets and many competitors open source their 
 - [Google Syntacticly Tagged N-grams from 3.5 Million Books](http://commondatastorage.googleapis.com/books/syntactic-ngrams/syntngrams.final.pdf)
   - [dataset](http://commondatastorage.googleapis.com/books/syntactic-ngrams/index.html) 
 - [Bing Queries for Search Algorithm Training](http://research.microsoft.com/en-us/projects/mslr/)
+  - Wikipedia [Learning to Rank](https://en.wikipedia.org/wiki/Learning_to_rank) 
+  - Wikipedia [Discounted Cumulative Gain](https://en.wikipedia.org/wiki/Discounted_cumulative_gain) metric
 
 ## APIs
 
