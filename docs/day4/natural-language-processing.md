@@ -78,4 +78,5 @@
 
 ## Advanced Techniques
 
-- [Kernel method](http://www.jmlr.org/papers/volume2/lodhi02a/lodhi02a.pdf) for document matching
+- [Kernel method](https://en.wikipedia.org/wiki/Kernel_method) for [information retrieval](http://www.jmlr.org/papers/volume2/lodhi02a/lodhi02a.pdf) document search/matching
+- [LETOR](http://research.microsoft.com/en-us/um/beijing/projects/letor/) -- "Learning to Rank" search results
