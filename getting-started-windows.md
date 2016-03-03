@@ -1,4 +1,6 @@
-Install Anaconda then Install Git Bash
+Install Anaconda for Python 2.7 and Windows 64-bit
+Install [Git for Windows](http://www.git-scm.com/download/win)
+Accept the defaults for everything except the one that asks about installing linux tools (bash) we definitely want to override Windows commands with the git-bash commands.
 
 ```bash
 conda upgrade ipython
