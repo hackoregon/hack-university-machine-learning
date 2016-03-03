@@ -2,6 +2,10 @@ Install Anaconda for Python 2.7 and Windows 64-bit
 Install [Git for Windows](http://www.git-scm.com/download/win)
 Accept the defaults for everything except the one that asks about installing linux tools (bash) we definitely want to override Windows commands with the git-bash commands.
 
+Find `Git Bash` under `Git` in `All Programs` and launch it. Pin it to your taskbar, desktop, and/or Start Menu. Right-click those icons to select `Properties` then `Advanced...`. That should reveal a checkbox where you can say "Run as Administrator." Make sure it is checked.
+
+Restart `Git Bash` and test your anaconda installation by installing some more tools.
+
 ```bash
 conda upgrade ipython
 conda install unxutils anaconda-client anaconda-build
@@ -45,7 +49,11 @@ Likewise for other interactive commands like `anaconda login`
 
 To install nolearn and run the iptyhon notebooks from today you'll need to run:
 
-`conda config --add channels hobs` 
+`conda config --add channels https://conda.anaconda.org/hobs`
+
+Unfortunately you may still have to be explicit about the channel when you install:
+
+`conda install --channel https://conda.anaconda.org/hobs theano` 
 
 The release notes for msysgit (git for Windows):
 
@@ -65,4 +73,8 @@ The release notes for msysgit (git for Windows):
     As Git for Windows is shipped without Python support, all Git commands requiring Python are not yet supported; e.g. git p4.
     The Quick Launch icon will only be installed for the user running setup (typically the Administrator). This is a technical restriction and will not change.
 
-co
+## Compiler
+
+A g++ compiler is sometimes required (like to build the Theano package). Some bullet-proof instructions for getting this installed are [at cmc.edu](http://www1.cmc.edu/pages/faculty/alee/g++/g++.html)
+
+
