@@ -4,7 +4,15 @@ Accept the defaults for everything except the one that asks about installing lin
 
 Find `Git Bash` under `Git` in `All Programs` and launch it. Pin it to your taskbar, desktop, and/or Start Menu. Right-click those icons to select `Properties` then `Advanced...`. That should reveal a checkbox where you can say "Run as Administrator." Make sure it is checked.
 
-Restart `Git Bash` and test your anaconda installation by installing some more tools.
+Restart `Git Bash` and test it by giving it some basic settings and your user name and password.
+
+```bash
+git config --global push.default simple
+git config --global user.name "Your Name"
+git config --global user.email youremail@gmail.com
+```
+
+Install some more python tools to test the anaconda installation.
 
 ```bash
 conda upgrade ipython
@@ -21,7 +29,7 @@ mkdir huml
 cd huml
 ```
 
-Create an ssh key and upload it to github. Hit Enter when prompted for a filename or passphrase. 
+Create an ssh key and upload it to GitHub.com. Hit <kbd>Enter</kbd> whenever prompted for a filename or passphrase to accept the defaults. 
 
 ```bash
 ssh-keygen
