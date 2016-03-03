@@ -22,9 +22,11 @@ ssh-keygen
 cat ~/.ssh/id_rsa.pub
 ```
 
-Copy and paste your key using the mouse and <key>Ctrl</key>-<key>Ins</key> to copy.  
+Copy and paste your key using the mouse and <kbd>Ctrl</kbd>-<kbd>Ins</kbd> to copy.  
 Go to the settings on your  github profile page in your browse and find SSH Keys on the Left Hand side.  
-Use <key>Ctrl</key>-<key>V</key> to paste the key into the large text box and give you key a name in the smaller title box.
+Use <kbd>Ctrl</kbd>-<kbd>V</kbd> to paste the key into the large text box and give you key a name in the smaller title box.
+
+
 
 
 Use Git Bash (MINGW64) as your client. On Windows7 it is under Start -> All Programs -> Git -> Git Bash
