@@ -4,7 +4,11 @@ The most important algorithm in a machine learning system is the model performan
 
 If you don't know how good your prediction is likely to be, then you don't know whether you need to try to tune or change your machine learning algorithm.
 
-[This medium article by  Tavish Srivastava](http://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29) has a good explanation of some important performance metrics.
+## Resources
+
+### Classification: RMSE, Gain/Lift, K-S Divergence, AUC, Gini, Concordance Ratio
+
+This [medium article](http://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)by  Tavish Srivastava  has a good explanation of some important performance metrics.
 
 - RMSE: Root Mean Squared Error
   - works for both continuous values (regression) and categorical (classification)
@@ -26,7 +30,25 @@ If you don't know how good your prediction is likely to be, then you don't know 
 - Gini Coefficient
 - Concordant/Discordant ratio
 
-## Performance Metrics
+### Ranked Lists: RMSE, DCG, NDCG 
+
+Ranked lists are tricky to evaluate. Usually you care about more than just the score or ranke RMSE. This Dato [blog post](http://blog.dato.com/how-to-evaluate-machine-learning-models-part-2b-ranking-and-regression-metrics?hsFormKey=3bfd17244b5ec353723ed4fc24134798&submissionGuid=732f66dd-90eb-4d6a-9bc4-97c656d29005#blog_subscription) by Alice Zheng is a really good overview of some common metrics used for assessing Machine Learning algorithms that produce ranked lists (like search results). It's also a good overview of regression and classification performance metrics.
+
+[B White](https://gist.github.com/bwhite/3726239) coded up NDCG (as well as others in python) and lists these useful resouces for the "document retrieval" or "relevance" or "ranked list" prediction quality:
+
+- [UT CS slides](http://www.cs.utexas.edu/~mooney/ir-course/slides/Evaluation.ppt)
+- [NII tech report/paper](http://www.nii.ac.jp/TechReports/05-014E.pdf)
+- [Stanford CS276 Handouts](http://www.stanford.edu/class/cs276/handouts/EvaluationNew-handout-6-per.pdf)
+- [French Paper](http://hal.archives-ouvertes.fr/docs/00/72/67/60/PDF/07-busa-fekete.pdf)
+- ["Learning to Rank for Information Retrieval"](http://research.microsoft.com/en-us/people/tyliu/letor-tutorial-sigir08.pdf) by Tie-Yan Liu
+
+### NDCG: Normalized Discounted Cumulative Gain
+
+The name's a mouthful, but it describes pretty well how to compute this metric. The [formulas on WikiPedia](https://en.wikipedia.org/wiki/Discounted_cumulative_gain) translate into Python [like this](https://gist.github.com/bwhite/3726239)
+
+
+
+## Detail
 
 ### RMSE
 
