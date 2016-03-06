@@ -20,14 +20,24 @@
 - [Udacity Naive Bayes Lesson](https://www.udacity.com/course/viewer#!/c-ud120/l-2254358555/m-3013708686)
 
 
-## Python + Data
+## Code
 
 ### Springboard
+
+Zip packages of code + data
 
 - [JSON and DataFrame Queries](https://www.springboard.com/static/project_files/data_wrangling_json.zip)
 - [Human Body Temperature Statistics](https://www.springboard.com/static/project_files/statistics_project1.zip)
 - [Correlation between race and Job Application Call-backs](https://www.springboard.com/static/project_files/statistics_project2.zip)
 - [Hospital Readmission Statistics](https://www.springboard.com/static/project_files/statistics_project3.zip)
+
+### Python
+
+Example algorithms and usage (code examples).
+
+- [Pandas DataFrame Examples](https://gist.github.com/why-not/4582705])
+- [Information Retrieval Metrics](https://gist.github.com/bwhite/3726239): Ranking models, like search results
+  - RMSE, DCG, NDCG, MAP, Accuracy @ k, etc
 
 ## [Books](books.md)
 
