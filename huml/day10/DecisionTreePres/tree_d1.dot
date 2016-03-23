@@ -1,0 +1,7 @@
+digraph Tree {
+0 [label="petal width (cm) <= 0.8000\nimpurity = 1.58496250072\nsamples = 150", shape="box"] ;
+1 [label="impurity = 0.0000\nsamples = 50\nvalue = [ 50.   0.   0.]", shape="box"] ;
+0 -> 1 ;
+2 [label="impurity = 1.0000\nsamples = 100\nvalue = [  0.  50.  50.]", shape="box"] ;
+0 -> 2 ;
+}

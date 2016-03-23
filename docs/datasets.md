@@ -31,6 +31,8 @@ Competitions often have labeled datasets and many competitors open source their 
 - [Bing Queries for Search Algorithm Training](http://research.microsoft.com/en-us/projects/mslr/)
   - Wikipedia [Learning to Rank](https://en.wikipedia.org/wiki/Learning_to_rank) 
   - Wikipedia [Discounted Cumulative Gain](https://en.wikipedia.org/wiki/Discounted_cumulative_gain) metric
+- [2011 De](https://www.openintro.org/redirect.php?go=ames_data_documentation&referrer=data_set_page) "Alternative to the Boston Housing Data ..."
+  - [Ames, Iowa Residential Home Sales data](https://www.openintro.org/stat/data/ames.csv)
 
 ## APIs
 
@@ -41,15 +43,18 @@ Competitions often have labeled datasets and many competitors open source their 
 - [MS COCO labeled Images](http://mscoco.org/dataset/#download)
   - amazing results have been acheived by training CNN+RNNs on this dataset
 
-## Federal Government
+## Government
 
 - [USDA Food Nutrient Database](www.ars.usda.gov)
   - [Release 28](https://www.ars.usda.gov/SP2UserFiles/Place/12354500/Data/SR/SR28/dnload/sr28asc.zip)
   - [Release 28 updates (additional entries)](https://www.ars.usda.gov/SP2UserFiles/Place/12354500/Data/SR/SR28/dnload/sr28upd.zip)
+- [DATA.GOV search for portland Data](https://catalog.data.gov/dataset?q=portland%2C+oregon&sort=none&groups=local&organization_type=State+Government&ext_location=&ext_bbox=&ext_prev_extent=-142.03125%2C8.754794702435605%2C-59.0625%2C61.77312286453148)
+  - PSU [2014 Salaries by Role](https://data.oregon.gov/api/views/9x7t-w4u8/rows.csv?accessType=DOWNLOAD), [Expenses by Category](https://data.oregon.gov/api/views/ruye-i7t4/rows.csv?accessType=DOWNLOAD)
+  - [Oregon OSHA Fatal Accidents](https://data.oregon.gov/api/views/7e2w-n5dn/rows.csv?accessType=DOWNLOAD)
 
 ## Interesting Torrent Search Queries
 
-- [Ashley Madison dump]()
+- [Ashley Madison dump](torrent search?)
 
 
 ## Data Tools
