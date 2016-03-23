@@ -1,16 +1,16 @@
-# Day 9: Classification
+# Zeke 
 
-## [Allen Grimm](http://www.thegrimmscientist.com/)
+## [Zeke](http://www.thegrimmscientist.com/)
 
-- Founded [PDXData](pdxdata.org) Meetup
-  - brought 4 meetup leaders together
-  - taught his first portland lecture on Classification
-- Data Scientist for [Financial Genome](financialgenome.io)/[Lendalutics](http://www.lendalytics.com/index.html)
+- Helped organize the PDX Data Science Meetup
+  - led the charge on Kaggle competitions
+- Manages a team responsible for large databases
+- MS Degree in computational linguistics (from France!)
 
-## Classification
+## Big O
 
-- Decision Trees
-- Random Forests
-- Try it on Portland Crime Data!
-
-Notebooks and Code [on github](../huml/day9)
+- When should you optimize
+- Big O is easy
+  - O(N) - linear
+  - O(N^2) - polynomial
+  - O(exp(N)) - exponential
