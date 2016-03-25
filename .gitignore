@@ -46,3 +46,6 @@ docs/api/*
 docs/_build/*
 cover/*
 MANIFEST
+
+# ignore mac files
+.DS_Store
