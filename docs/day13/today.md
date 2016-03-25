@@ -1,4 +1,4 @@
-# Linear Control and Modeling
+# Linear Controls and Simulation
 
 ## Working With Big Vectors
 
