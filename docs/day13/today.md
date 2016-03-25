@@ -1,15 +1,14 @@
 # Linear Controls and Simulation
 
-## Working With Big Vectors
+### Working With Big Vectors
 
-### [Distances](http://www.benfrederickson.com/distance-metrics/) for Recommendation Engines
+- [Distances](http://www.benfrederickson.com/distance-metrics/) for Recommendation Engines
+- [Component Analysis](http://setosa.io/ev/principal-component-analysis/)
 
-### [Component Analysis](http://setosa.io/ev/principal-component-analysis/)
+### Linear Feedback Control
 
-## Linear Feedback Control
-
+- [An sailboat autopilot](../huml/day13)
 - [control system toolbox](http://python-control.readthedocs.org/en/latest/control.html#frequency-domain-plotting)
+- [Kalman Filters](https://github.com/totalgood/Kalman-and-Bayesian-Filters-in-Python/blob/master/00-Preface.ipynb)
 
-## [Kalman Filters](https://github.com/totalgood/Kalman-and-Bayesian-Filters-in-Python/blob/master/00-Preface.ipynb)
 
-##
