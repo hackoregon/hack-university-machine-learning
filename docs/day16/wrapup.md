@@ -11,11 +11,28 @@ center: false
 ## Review
 
 - Machine Learning and AI
----
+
+
+
+
+
+
+
+
+
+
+---------------------
 
 ## What is Machine Learning?
 
----
+
+
+
+
+
+
+---------------------
+
 
 ## Automated Data Science
 
@@ -30,7 +47,12 @@ How can we apply machine learning to Hack Oregon data projects
 - Poverty: household income, "real" CPI
 - Education: predict graduation rates
 
----
+
+
+
+
+
+---------------------
 
 ## What makes a "Good" Problem
 
