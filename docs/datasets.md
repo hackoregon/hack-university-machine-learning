@@ -55,6 +55,8 @@ Competitions often have labeled datasets and many competitors open source their 
  - [twip](https://github.com/totalgood/twip)
     - `pip install twip`
     - twitter feed normalizer
+ - [pug-ann](https://github.com/hobson/pug-ann/tree/master/pug/ann/data)
+    - historical weather data for Artificial Neural Net experiments
 
 ## Government
 
@@ -74,4 +76,3 @@ Competitions often have labeled datasets and many competitors open source their 
 
 - [JSONView](https://chrome.google.com/webstore/search/JSONview?hl=en-US) plugin for Chrome
   - decompresses and lays out json in a tree to make it easier to understand
-- [Python app for downloading historical weather data](https://github.com/hobson/pug-ann/tree/master/pug/ann/data)
