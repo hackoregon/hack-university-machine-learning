@@ -43,6 +43,19 @@ Competitions often have labeled datasets and many competitors open source their 
 - [MS COCO labeled Images](http://mscoco.org/dataset/#download)
   - amazing results have been acheived by training CNN+RNNs on this dataset
 
+## Data Aggregators
+
+ - [pug-data](https://github.com/totalgood/pug-data)
+    - `pip install pug-data` 
+    - historical weather time series in the US
+    - twitter feeds (natural language text)
+ - [nltk](http://www.nltk.org/api/nltk.html#data-module)
+    - `pip install nltk`  
+    - GUI downloader for Corpora, Lexica, and word usage stats 
+ - [twip](https://github.com/totalgood/twip)
+    - `pip install twip`
+    - twitter feed normalizer
+
 ## Government
 
 - [USDA Food Nutrient Database](www.ars.usda.gov)
