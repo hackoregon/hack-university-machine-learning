@@ -42,6 +42,8 @@ Competitions often have labeled datasets and many competitors open source their 
 - [USDA Food and Nutrient API](http://ndb.nal.usda.gov/ndb/doc/index)
 - [MS COCO labeled Images](http://mscoco.org/dataset/#download)
   - amazing results have been acheived by training CNN+RNNs on this dataset
+- [NYC crime data for past few years](https://thomaslevine.com/!/nyc-crime-map/)
+  - API, CSVs, and JSON 
 
 ## Data Aggregators
 
@@ -69,8 +71,11 @@ Competitions often have labeled datasets and many competitors open source their 
 
 ## Interesting Torrent Search Queries
 
-- [Ashley Madison dump](torrent search?)
+- [Ashley Madison dump](http://google.com/?search=torrent search dmps tar gz)
 
+## University Data Collections
+
+- [Cornell University Collection of Social Science Data](http://www.ciser.cornell.edu/ASPs/datasource.asp)
 
 ## Data Tools
 
