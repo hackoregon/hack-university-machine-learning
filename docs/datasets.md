@@ -19,7 +19,7 @@
 Competitions often have labeled datasets and many competitors open source their models, so you can see how well you are doing.
 
 - Kaggle
-  - ["Evergreen" or "Timelessness" classification of 10k URLs](https://www.kaggle.com/c/stumbleupon/data
+  - ["Evergreen" or "Timelessness" classification of 10k URLs](https://www.kaggle.com/c/stumbleupon/data)
   - ["World Food Facts" 50MB csv of food carbon footprint and nurtition](https://www.kaggle.com/openfoodfacts/world-food-facts)
   - ["Kaggle Datasets" ]()
 
