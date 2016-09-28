@@ -21,7 +21,13 @@ Competitions often have labeled datasets and many competitors open source their 
 - Kaggle
   - ["Evergreen" or "Timelessness" classification of 10k URLs](https://www.kaggle.com/c/stumbleupon/data)
   - ["World Food Facts" 50MB csv of food carbon footprint and nurtition](https://www.kaggle.com/openfoodfacts/world-food-facts)
-  - ["Kaggle Datasets" ]()
+  - ["Kaggle Datasets" ](https://www.kaggle.com/datasets)
+
+## Corpora and Lexica
+
+- [Amazon Texts](https://s3.amazonaws.com/text-datasets/nietzsche.txt)
+- [Gutenberg](https://www.gutenberg.org/browse/scores/top): all books before 1950
+- [Google NGram Viewer](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html) modern books
 
 ## Academic Studies
 
@@ -61,6 +67,8 @@ Competitions often have labeled datasets and many competitors open source their 
     - twitter feed normalizer
  - [pug-ann](https://github.com/hobson/pug-ann/tree/master/pug/ann/data)
     - historical weather data for Artificial Neural Net experiments
+ - [Amazon AWS Datasets](https://aws.amazon.com/datasets/)
+    - 
 
 ## Government
 
